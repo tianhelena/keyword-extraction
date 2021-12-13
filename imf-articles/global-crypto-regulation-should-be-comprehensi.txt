@@ -1,0 +1,35 @@
+ Previous   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Global Crypto Regulation Should be Comprehensive, Consistent, and Coordinated     
+ العربية  |  日本語  |  中文  |  Русский  |  Français  |  Português 
+ The IMF’s mandate is to safeguard the stability of the international monetary and financial system, and crypto assets are changing the system profoundly. 
+ By  Tobias Adrian ,  Dong He , and  Aditya Narain 
+ Crypto assets and associated products and services have grown rapidly in recent years. Furthermore, interlinkages with the regulated financial system are rising. Policymakers struggle to monitor risks from this evolving sector, in which many activities are unregulated. In fact, we think these financial stability risks could soon become systemic in some countries. 
+ 
+ Uncoordinated regulatory measures may facilitate potentially destabilizing capital flows. 
+ 
+ While the nearly $2.5 trillion market capitalization indicates significant economic value of the underlying technological innovations such as the blockchain, it might also reflect froth in an environment of stretched valuations. Indeed, early reactions to the Omicron variant included a significant crypto selloff. 
+ 
+ Financial system risks from crypto assets 
+ Determining valuation is not the only challenge in the crypto ecosystem: identification, monitoring, and management of risks defy regulators and firms. These include, for example, operational and financial integrity risks from crypto asset exchanges and wallets, investor protection, and inadequate reserves and inaccurate disclosure for some stablecoins. Moreover, in emerging markets and developing economies, the advent of crypto can accelerate what we have called “cryptoization”—when these assets replace domestic currency, and circumvent exchange restrictions and capital account management measures. 
+ Such risks underscore why we now need comprehensive international standards that more fully address risks to the financial system from crypto assets, their associated ecosystem, and their related transactions, while allowing for an enabling environment for useful crypto asset products and applications. 
+ The Financial Stability Board, in its coordinating role, should develop a global framework comprising standards for regulation of crypto assets. The objective should be to provide a comprehensive and coordinated approach to managing risks to financial stability and market conduct that can be consistently applied across jurisdictions, while minimizing the potential for regulatory arbitrage, or moving activity to jurisdictions with easier requirements. 
+ Crypto’s cross-sector and cross-border remit limits the effectiveness of national approaches. Countries are taking very different strategies, and existing laws and regulations may not allow for national approaches that comprehensively cover all elements of these assets. Importantly, many crypto service providers operate across borders, making the task for supervision and enforcement more difficult. Uncoordinated regulatory measures may facilitate potentially destabilizing capital flows. 
+ Standard-setting bodies responsible for different products and markets have provided varying levels of guidance. For example, the Financial Action Task Force has issued guidance for a risk-based approach to mitigating financial integrity risks from virtual assets and their service providers. Actions by other standard-setting bodies range from broad principles for some types of crypto assets to rules for mitigating exposure risks of regulated entities and setting up information exchange networks. While useful, these efforts aren’t sufficiently coordinated towards a global framework for managing the risks to financial and market integrity, financial stability, and consumer and investor protection. 
+ Making regulation work at the global level 
+ The global regulatory framework should provide a level playing field along the activity and risk spectrum. We believe this should, for example, have the following three elements: 
+ 
+ Crypto-asset service providers that deliver critical functions should be licensed or authorized. These would include storage, transfer, settlement, and custody of reserves and assets, among others, similar to existing rules for financial service providers. Licensing and authorization criteria should be clearly articulated, the responsible authorities clearly designated, and coordination mechanisms among them well defined. 
+ Requirements should be tailored to the main use cases of crypto assets and stablecoins. For example, services and products for  investments  should have requirements similar to those of securities brokers and dealers, overseen by the securities regulator. Services and products for  payments  should have requirements similar to those of bank deposits, overseen by the central bank or the payments oversight authority. Regardless of the initial authority for approving crypto services and products, all overseers—from central banks to securities and banking regulators—need to coordinate to address the various risks arising from different and changing uses. 
+ Authorities should provide clear requirements on regulated financial institutions concerning their exposure to and engagement with crypto. For example, the appropriate banking, securities, insurance, and pension regulators should stipulate the capital and liquidity requirements and limits on exposure to different types of these assets, and require investor suitability and risk assessments. If the regulated entities provide custody services, requirements should be clarified to address the risks arising from those functions. 
+ 
+ Some emerging markets and developing economies face more immediate and acute risks of currency substitution through crypto assets, the so-called  cryptoization . Capital flow management measures will need to be fine-tuned in the face of cryptoization. This is because applying established regulatory tools to manage capital flows may be more challenging when value is transmitted through new instruments, new channels and new service providers that are not regulated entities. 
+ There is an urgent need for cross-border collaboration and cooperation to address the technological, legal, regulatory, and supervisory challenges. Setting up a comprehensive, consistent, and coordinated regulatory approach to crypto is a daunting task. But if we start now, we can achieve the policy goal of maintaining financial stability while benefiting from the benefits that the underlying technological innovations bring. 
+ Crypto assets are potentially changing the international monetary and financial system in profound ways.  The IMF  has developed a strategy in order to continue to deliver on its mandate in the digital age.  The Fund will work closely with the Financial Stability Board and other members of the international regulatory community to develop an effective regulatory approach to crypto assets. 
+ 

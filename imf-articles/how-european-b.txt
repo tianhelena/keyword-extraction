@@ -1,0 +1,38 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (Photo: Alejandro Castellon/iStock by Getty Images)   
+ 
+ 
+ How European Banks Can Support the Recovery   
+ By  Mai Chi Dao ,  Andreas Jobst ,  Aiko Mineshima , and  Srobona Mitra 
+ Español ,  Français ,  Português 
+ A robust post-COVID-19 recovery will depend on banks having sufficient capital to provide credit. While most European banks entered the pandemic with strong capital levels, they are highly exposed to economic sectors hit hard by the pandemic. 
+ A  new IMF study  assesses the impact of the pandemic on European banks’ capital through its effect on profitability, asset quality, and risk exposures. The approach differs from other recent studies—by the   European Central Bank   and   European Banking Authority —because it incorporates policy support provided to banks and borrowers. It also incorporates granular estimates of   corporate sector distress , and examines a larger number of European countries and banks. 
+ 
+ With the right policies, banks will be able to support the recovery with new lending. 
+ 
+ The analysis finds that, while the pandemic will significantly deplete banks’ capital, their buffers are sufficiently large to withstand the likely impact of the crisis. And with the right policies, banks will be able to support the recovery with new lending. 
+ Using the   IMF’s January 2021 projectios  as a baseline, euro area banks will remain broadly resilient to the deep recession in 2020 followed by the partial recovery in 2021. The aggregate capital ratio is projected to decline from 14.7 percent to 13.1 percent by the end of 2021 if policy support is maintained. Indeed no bank will breach the prudential minimum capital requirement of 4.5 percent, even without policy support. 
+ But at least three important caveats are worth noting. 
+ First, effective policies matter. 
+ Supportive policies are extremely important in reducing both the extent and variability of banks’ capital erosion. They substantially weaken the link between the macroeconomic shock and bank capital, and lower the chances that banks cut back lending to conserve capital. Aside from regulatory capital relief, these policies include a wide range of borrower support measures, such as debt moratoria, credit guarantees, and deferred insolvency proceedings. They also include grants, tax relief, and wage subsidies to firms. 
+ Looking beyond the euro area, banks in Europe’s emerging economies are likely to see a higher capital erosion of 2.4 percentage points. In many of these countries, tighter government budgets meant a lower level of support. 
+  Second, market-based capital thresholds are the more relevant benchmarks.  
+ For many larger banks, hybrid capital—which contains elements of both debt and equity—is likely to be an important source of funds at a time when the cost of capital remains high. But investors in hybrid capital typically rely on interest payments. 
+ If policies are not effective, several banks might struggle to meet their so-called “maximum distributable amount” (MDA) capital thresholds, which are higher than their current regulatory minimum requirements. This would lead to restrictions on dividend distributions and interest payments to hybrid capital, possibly spooking investors. Larger banks, which hold about 25 percent of capital in such instruments, could come under funding pressure. 
+ Third, the speed of the recovery is critical. 
+ A protracted recovery could result in much larger credit losses and higher provisions for bad loans. If GDP growth in 2020–21 is 1.2 percentage points below the baseline forecast, the erosion of bank capital could become more pronounced. Over 5 percent of all banks would risk breaching their MDA thresholds, even with policies in place. And this share would double if policies do not work as projected (see above chart). 
+ Policies to keep banks healthy  
+ These results suggest a strategy that focuses on the following areas: 
+  Continue pandemic support policies until the recovery is firmly established.   A premature winding down of borrower support could create “cliff edge effects” and risk choking off credit supply just when it is needed most. As the recovery gains momentum, eligibility criteria should be tightened and be better targeted. Some direct   equity support   could also be considered for viable firms. 
+  Clarify supervisory guidance on the availability and duration of capital relief.   Supervisors should clarify the timetable for bank’s capital buffers. Banks should be allowed to build back capital buffers gradually to preserve lending capacity. Restrictions on dividend payouts and share buybacks should be maintained until the recovery is well underway. 
+  Support balance sheet repair by strengthening nonperforming loan management and the bank resolution framework.   As policy measures expire, delayed loss recognition will likely trigger a wave of loan defaults. The EU authorities should use the current   system-wide stress test , due in July 2021, to assess the need for precautionary recapitalizations. Insolvency regimes should be strengthened by addressing administrative constraints and establishing fast-track procedures to restructure debt. 
+ Address structurally low bank profitability.   Banks will take several years to build back capital organically through retained earnings unless their profitability improves. Banks should therefore enhance non-interest revenues and streamline operations to improve their cost structures, including through greater use of digital technologies. And consolidation could improve banks’ efficiency, while facilitating a better allocation of capital and liquidity within banking groups. 
+ 
+ 
+ 
+ 
+ 

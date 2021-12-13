@@ -1,0 +1,235 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (PHOTO: DNY59 by Getty images)   
+ 
+ 
+ What the Continued Global Uncertainty Means for You   
+ By  Hites Ahir ,  Nicholas Bloom , and  Davide Furceri 
+ عربي ,  Español ,  中文 ,  Français ,  日本語 ,  Português ,  Русский  
+ Global uncertainty reached unprecedented levels at the beginning of the  COVID-19 outbreak  and remains elevated. The  World Uncertainty Index —a quarterly measure of global economic and policy uncertainty covering 143 countries—shows that although uncertainty has come down by about 60 percent from the peak observed at the onset of the COVID-19 pandemic in the first quarter of 2020, it remains about 50 percent above its historical average during the 1996–2010 period. 
+ 
+ Uncertainty in systemic economies matters for uncertainty around the world. 
+ 
+ 
+ What drives global uncertainty?  
+ Economic growth in key systemic economies, like those of the United States and European Union, is a key   driver   of economic activity in the rest of the world. Is this also true when it comes to global uncertainty? For example, given the higher interconnectedness across countries, should we expect that uncertainty from the U.S. election, Brexit, or China-U.S. trade tensions spill over and affect uncertainty in other countries? 
+ To answer this question, we construct an index that measures the extent of “uncertainty spillovers” from key systemic economies—the Group of 7 (G7) countries plus China—to the rest of the world. In particular, we identify uncertainty spillovers from systemic economies by text mining the Economist Intelligence Unit country reports, covering 143 countries from the first quarter of 1996 to the fourth quarter of 2020. 
+ Uncertainty spillovers from each of the systemic economies are measured by the frequency that the word “uncertainty” is mentioned in the reports in proximity to a word related to the respective systemic-economy country. Specifically, for each country and quarter, we search the country reports for the words “uncertain,” “uncertainty,” and “uncertainties” appearing near words related to each country. The country-specific words include country’s name, name of presidents, name of the central bank, name of central bank governors, and selected country’s major events (such as Brexit). 
+ To make the measure comparable across countries, we scale the raw counts by the total number of words in each report. An increase in the index indicates that uncertainty is rising, and vice versa. 
+ Our results reveal two key facts: 
+ First: Yes, uncertainty in systemic economies matters for uncertainty around the world. 
+ Second: Only the United States and the United Kingdom have significant uncertainty spillover effects, while the other systemic economies play a little role, on average. 
+ Starting with the United States, the chart below displays the global (excluding the United States) average of the ratio of uncertainty related to the United States to overall uncertainty. It shows that uncertainty related to the United States has been a key source of uncertainty around the world since the past few decades 
+ For instance, during the 2001–2003 period, U.S.-related uncertainty contributed to about 8 percent of the uncertainty in other countries—about 23 percent of the increase in global uncertainty from the historical mean. n the last 4 years, U.S.-related uncertainty has contributed to about 13 percent of uncertainty in other countries—with peaks of about 30 percent—and approximately 20 percent of the increase in global uncertainty from historical mean. 
+ Uncertainty related to the U.K.-EU Brexit negotiations has also had significant global spillovers in the last 4 years, with a peak of more than 30 percent and contributing to about 11 percent in the rise in global uncertainty during this period. 
+ 
+ Finally, the ratio of uncertainty related to the other systemic countries to overall uncertainty shows Canada, China, France, Germany, Italy, and Japan combined have little uncertainty spillover effects on the rest of the world. An exception is China in the recent years, but most of the China-related uncertainty is due to trade tensions with the United States. That said, while other systemic economies have limited global uncertainty spillovers, they have important regional uncertainty effects—such as for example, Germany for the other European economies and China and Japan for several Asian economies. 
+  AddThis Advanced Settings above via filter on the_content   AddThis Advanced Settings below via filter on the_content   AddThis Advanced Settings generic via filter on the_content   AddThis Share Buttons above via filter on the_content   AddThis Share Buttons below via filter on the_content   AddThis Share Buttons generic via filter on the_content    
+ IMFBlog 2021-01-19T15:49:34-05:00 January 19, 2021 |   
+ 
+ 
+						Related Posts					 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Metals Demand From Energy Transition May Top Current Global Supply 
+ 
+ 
+ December 8, 2021 
+  fusion-carousel-meta  
+  fusion-carousel-item-wrapper  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Economics of Health and Well-Being 
+ 
+ 
+ December 2, 2021 
+  fusion-carousel-meta  
+  fusion-carousel-item-wrapper  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sovereign Domestic Debt Restructuring: Handle with Care 
+ 
+ 
+ December 1, 2021 
+  fusion-carousel-meta  
+  fusion-carousel-item-wrapper  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chart of the Week Global Financial Safety Net—A Lifeline for an Uncertain World 
+ 
+ 
+ November 30, 2021 
+  fusion-carousel-meta  
+  fusion-carousel-item-wrapper  
+ 
+  fusion-carousel-holder  
+ 
+ 
+ 
+ 
+  fusion-carousel-positioner  
+  fusion-carousel  
+  related-posts  
+ 
+ 
+ 
+ Get IMF Blog Email Updates   SUBSCRIBE NOW 
+ Coronavirus Related Issues Other IMF Blogs   
+ 
+ Other IMF Work   
+ Country Focus 
+ Podcasts 
+ Videos 
+ Finance & Development Magazine 
+ 
+ 
+ About the Blog   IMFBlog is a forum for the views of the International Monetary Fund (IMF) staff and officials on pressing economic and policy issues of the day.  
+ The views expressed are those of the author(s) and do not necessarily represent the views of the IMF and its Executive Board. 
+ 
+   
+    fusion-row  
+    #main  
+ 
+ 
+ 
+ 
+ 
+ 
+		Copyright 2021  International Monetary Fund SUBSCRIBE TO IMF BLOG UPDATES   
+ 
+ 
+ Twitter Facebook Instagram LinkedIn YouTube Flickr 
+    fusion-fusion-copyright-content  
+    fusion-row  
+    #footer  
+    fusion-footer  
+ 
+ 
+    wrapper  
+    #boxed-wrapper  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  GovDelivery Subscription Overlay  
+ 
+  End GovDelivery Overlay    
+ 
+ 
+ Go to Top 
+ 
+ 

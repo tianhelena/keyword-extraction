@@ -1,0 +1,43 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (Photo: D-Keine/iStock by Getty Images)   
+ 
+ 
+ Cryptoassets as National Currency? A Step Too Far   
+ By  Tobias Adrian  and  Rhoda Weeks-Brown 
+ عربي ,  中文 ,  Español ,  Français ,  日本語 ,  Português ,  Русский 
+ New digital forms of money have the potential to provide cheaper and faster payments, enhance financial inclusion, improve resilience and competition among payment providers, and facilitate cross-border transfers. 
+ But doing so is not straightforward. It requires significant investment as well as difficult policy choices, such as clarifying the role of the public and private sectors in providing and regulating digital forms of money. 
+ Some countries may be tempted by a shortcut: adopting cryptoassets as national currencies. Many are indeed secure, easy to access, and cheap to transact. We believe, however, that in most cases risks and costs outweigh potential benefits. 
+ Cryptoassets are privately issued tokens based on cryptographic techniques and denominated in their own unit of account. Their value can be extremely volatile. Bitcoin, for instance, reached a peak of $65,000 in April and crashed to less than half that value two months later. 
+ And yet, Bitcoin lives on. For some, it is an opportunity to transact anonymously—for good or bad. For others, it is a means to diversify portfolios and hold a speculative asset that can bring riches but also significant losses. 
+ Cryptoassets are thus fundamentally different from other kinds of digital money. Central banks, for instance, are considering issuing digital currencies—digital money issued in the form of a liability of the central bank. Private companies are also pushing the frontier, with money that can be sent over mobile phones, popular in East Africa and China, and with stablecoins, whose value depends on the safety and liquidity of backing assets. 
+ Cryptoassets as legal tender? 
+ Bitcoin and its peers have mostly remained on the fringes of finance and payments, yet some countries are actively considering granting cryptoassets legal tender status, and even making these a second (or potentially only) national currency. 
+ If a cryptoasset were granted legal tender status, it would have to be accepted by creditors in payment of monetary obligations, including taxes, similar to notes and coins (currency) issued by the central bank. 
+Countries can even go further by passing laws to encourage the use of cryptoassets as a national currency, that is, as an official monetary unit (in which monetary obligations can be expressed), and a mandatory means of payment for everyday purchases. 
+ Cryptoassets are unlikely to catch on in countries with stable inflation and exchange rates, and credible institutions. Households and businesses would have very little incentive to price or save in a parallel cryptoasset such as Bitcoin, even if it were given legal tender or currency status. Their value is just too volatile and unrelated to the real economy. 
+ Even in relatively less stable economies, the use of a globally recognized reserve currency such as the dollar or euro would likely be more alluring than adopting a cryptoasset. 
+ A cryptoasset might catch on as a vehicle for unbanked people to make payments, but not to store value. It would be immediately exchanged into real currency upon receipt. 
+ Then again, real currency may not always be readily available, nor easily transferable. Moreover, in some countries, laws forbid or restrict payments in other forms of money. These could tip the balance towards widespread use of cryptoassets. 
+ Proceed with caution  
+ The most direct cost of widespread adoption of a cryptoasset such as Bitcoin is to macroeconomic stability. If goods and services were priced in both a real currency and a cryptoasset, households and businesses would spend significant time and resources choosing which money to hold as opposed to engaging in productive activities. Similarly, government revenues would be exposed to exchange rate risk if taxes were quoted in advance in a cryptoasset while expenditures remained mostly in the local currency, or vice versa. 
+ Also, monetary policy would lose bite. Central banks cannot set interest rates on a foreign currency. Usually, when a country adopts a foreign currency as its own, it “imports” the credibility of the foreign monetary policy and hope to bring its economy–and interest rates–in line with the foreign business cycle. Neither of these is possible in the case of widespread cryptoasset adoption. 
+ As a result, domestic prices could become highly unstable. Even if all prices were quoted in, say, Bitcoin, the prices of imported goods and services would still fluctuate massively, following the whims of market valuations. 
+ Financial integrity could also suffer. Without robust anti-money laundering and combating the financing of terrorism measures, cryptoassets can be used to launder ill-gotten money, fund terrorism, and evade taxes. This could pose risks to a country’s financial system, fiscal balance, and relationships with foreign countries and correspondent banks. 
+ The Financial Action Task Force has set a standard for how virtual assets and related service providers should be regulated to limit financial integrity risks. But enforcement of that standard is not yet consistent across countries, which can be problematic given the potential for cross-border activities. 
+ Further legal issues arise. Legal tender status requires that a means of payment be widely accessible. However, internet access and technology needed to transfer cryptoassets remains scarce in many countries, raising issues about fairness and financial inclusion. Moreover, the official monetary unit must be sufficiently stable in value to facilitate its use for medium- to long-term monetary obligations. And changes to a country’s legal tender status and monetary unit typically require complex and widespread changes to monetary law to avoid creating a disjointed legal system. 
+ In addition, banks and other financial institutions could be exposed to the massive fluctuations in cryptoasset prices. It is not clear whether prudential regulation against exposures to foreign currency or risky assets in banks could be upheld if Bitcoin, for instance, were given legal tender status. 
+ Moreover, widespread cryptoasset use would undermine consumer protection. Households and businesses could lose wealth through large swings in value, fraud, or cyber-attacks. While the technology underlying cryptoassets has proven extremely robust, technical glitches could occur. In the case of Bitcoin, recourse is difficult as there is no legal issuer. 
+ Finally, mined cryptoassets such as Bitcoin require an enormous amount of electricity to power the computer networks that verify transactions. The ecological implications of adopting these cryptoassets as a national currency could be dire. 
+ Striking a balance 
+ As national currency, cryptoassets—including Bitcoin—come with substantial risks to macro-financial stability, financial integrity, consumer protection, and the environment. The advantages of their underlying technologies, including the potential for cheaper and more inclusive financial services, should not be overlooked. Governments, however, need to step up to provide these services, and leverage new digital forms of money while preserving stability, efficiency, equality, and environmental sustainability. Attempting to make cryptoassets a national currency is an inadvisable shortcut. 
+   
+ 
+ 
+ 
+ 
+ 

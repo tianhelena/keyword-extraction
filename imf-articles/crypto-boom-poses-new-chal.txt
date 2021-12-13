@@ -1,0 +1,44 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (Photo: Saidka/iStock by Getty Images)   
+ 
+ 
+ Crypto Boom Poses New Challenges to Financial Stability   
+ By  Dimitris Drakopoulos ,  Fabio Natalucci , and  Evan Papageorgiou 
+ As crypto assets take hold, regulators need to step up. 
+ عربي ,  中文 ,  Español ,  Français ,  日本語 ,  Português ,  Русский 
+ Crypto assets offer a new world of opportunities: Quick and easy payments. Innovative financial services. Inclusive access to previously “unbanked” parts of the world. All are made possible by the crypto ecosystem. 
+ 
+ Consumer protection risks remain substantial given limited or inadequate disclosure and oversight. 
+ 
+ But along with the opportunities come challenges and risks. The latest  Global Financial Stability Report  describes the risks posed by the crypto ecosystem and offers some policy options to help navigate this uncharted territory. 
+ The Crypto Ecosystem—What Is It, What’s at Risk? 
+ The total market value of all the crypto assets surpassed $2 trillion as of September 2021—a 10-fold increase since early 2020. An entire ecosystem is also flourishing, replete with exchanges, wallets, miners, and   stablecoin   issuers. 
+ Many of these entities lack strong operational, governance, and risk practices. Crypto exchanges, for instance, have faced significant disruptions during periods of market turbulence. There are also several high-profile cases of hacking-related thefts of customer funds. So far, these incidents have not had a significant impact on financial stability. However, as crypto assets become more mainstream, their importance in terms of potential implications for the wider economy is set to increase. 
+ ﻿ ﻿ 
+ Consumer protection risks remain substantial given limited or inadequate disclosure and oversight. For example, more than 16,000 tokens have been listed in various exchanges and around   9,000  exist today, while the rest have disappeared in some form. For example, many of them have no volumes or the developers have walked away from the project. Some were likely created solely for speculation purposes or even outright fraud. 
+ The (pseudo) anonymity of crypto assets also creates data gaps for regulators and can open unwanted doors for money laundering, as well as terrorist financing. Although authorities may be able to trace illicit transactions, they may not be able to identify the parties to such transactions. Additionally, the crypto ecosystem falls under different regulatory frameworks in different countries, making coordination more challenging. For example, most transactions on crypto exchanges happen through entities that operate primarily in offshore financial centers. This makes supervision and enforcement not only challenging, but nearly impossible without international collaboration. 
+ Stablecoins—which aim to peg their value usually against the US dollar—are also growing at lightning speed, with their supply climbing 4-fold throughout 2021 to reach $120 billion. The term “ stablecoin ,” however, captures a very diverse group of crypto assets and can be misleading. Given the composition of their reserves, some stablecoins could be subject to runs, with knock-on effects to the financial system. The runs could be driven by investor concerns about the quality of their reserves or the speed at which reserves can be liquidated to meet potential redemptions. 
+ ﻿ ﻿ 
+   
+ Significant challenges ahead  
+ Although the extent of the adoption of crypto assets is difficult to measure, surveys and other measures suggest that emerging market and developing economies may be leading the way. Most notably, residents in these countries increased their trading volumes in crypto exchanges sharply in 2021. 
+ Looking ahead, widespread and rapid adoption can pose significant challenges by reinforcing dollarization forces in the economy—or in this case cryptoization—where residents start using crypto assets instead of the local currency. Cryptoization can reduce the ability of central banks to effectively implement monetary policy. It could also create financial stability risks, for example through funding and solvency risks arising from currency mismatches, as well as amplify the importance of some of the previously mentioned risks to consumer protection and financial integrity. 
+ Threats to fiscal policy could also intensify, given the potential for crypto assets to facilitate tax evasion. And seigniorage (the profits accruing from the right to issue currency) may also decline. Increased demand for crypto assets could also facilitate capital outflows that impact the foreign exchange market. 
+ Finally, a migration of crypto “mining” activity out of China to other emerging market and developing economies can have an important impact on domestic energy use—especially in countries that rely on more C0 2 -intensive forms of energy, as well as those that   subsidize  energy costs—given the large amount of energy needed for mining activities. 
+ Policy action 
+ As a first step, regulators and supervisors need to be able to monitor rapid developments in the crypto ecosystem and the risks they create by swiftly tackling data gaps. The global nature of crypto assets means that policymakers should enhance cross-border coordination to minimize the risks of regulatory arbitrage and ensure effective supervision and enforcement. 
+ National regulators should also prioritize the implementation of existing global standards. Standards focused on crypto assets are currently mostly limited to money laundering and proposals on bank exposures. However, other international standards—in areas such as securities regulation, as well as payments, clearing and settlements may also be applicable and need attention. 
+ As the role of stablecoins grows, regulations should be proportionate to the risks they pose and the economic functions they serve. For example, rules should be aligned with entities that provide similar products (e.g., bank deposits or money market funds). 
+ In some emerging markets and developing economies, cryptoization can be driven by weak central bank credibility, vulnerable banking systems, inefficiencies in payment systems and limited access to financial services. Authorities should prioritize strengthening macroeconomic policies and consider the benefits of issuing central bank digital currencies and improving payment systems. Central bank digital currencies may help reduce cryptoization pressures if they help satisfy a need for better payment technologies. 
+ Globally, policymakers should prioritize making cross-border payments faster, cheaper, more transparent and inclusive through the G20 Cross Border Payments Roadmap. 
+ Time is of the essence, and action needs to be decisive, swift and well-coordinated globally to allow the benefits to flow but, at the same time, also address the vulnerabilities. 
+   
+ 
+ 
+ 
+ 
+ 

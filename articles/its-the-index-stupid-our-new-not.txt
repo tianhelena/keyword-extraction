@@ -1,0 +1,110 @@
+This is a Notes On the Crises Guest piece by Johannes Petry, Jan Fichtner & Eelke Heemskerk
+
+Johannes Petry is a IRC Postdoctoral Research Fellow at the SCRIPTS Centre of Excellence, Free University of Berlin.
+
+Jan Fichtner is a Senior Research Fellow at the CORPNET project, University of Amsterdam.
+
+Eelke Heemskerk is the Principal Investigator at the CORPNET project, University of Amsterdam.
+
+Publisher’s Note: In 2021 I want to write and cover more about how markets are governed and the structural changes that are happening in formal exchange and other “market infrastructures”. Many arguments have emerged surrounding these changes that I want to critically evaluate. As a result, I’m very excited to run this piece by scholars I respect that provide an excellent overview of the recent changes that have come from the rise of ‘passive’ investing.
+
+Type your email…
+Subscribe
+
+Over the course of 2020, Elon Musk’s wealth skyrocketed from $27.7 billion to $147 billion. Musk even overtook Bill Gates, to become the second richest person in the world. This was a tremendous jump in fortune: Musk was only at 36th place in January 2020. Musk’s enrichment was mainly due to Tesla’s rising stock price (TSLA:US), which surged from $86 in January to $650 in December. Tesla is currently one of the ten most valuable companies in the US stock market.
+
+In an already record-breaking year, Tesla’s largest and most rapid increase in valuation came in November, due to its announced inclusion into the S&P 500 index, now scheduled for 21 December 2020. Within a week of this announcement, Tesla’s share price rose by 33%, as passive funds now have to invest more than $70 billion. This was a remarkable boost for stock of a company that many analysts say is already obviously overvalued.
+
+Just a few weeks earlier, on 21 September 2020, Yinghang ‘James’ Yang was arrested for insider trading by the Securities and Exchange Commission (SEC). Yang was an employee at S&P Dow Jones Indices (S&P DJI),sitting on an index committee that decided about which companies were to be included and excluded from S&P DJI indices. Yang had used this insider knowledge, to trade options on these companies through a friend’s account, making almost $1 million in the process. The case is currently being investigated by US authorities.
+
+While these seem like unrelated incidents, both these episodes in index committee decision making are part of a tectonic shift that has fundamentally transformed capital markets globally. That is, the move towards passive index investing — and the concomitantly growing power of index providers.
+
+Based on a recently published research paper, let’s explore the rising importance of indexing in this new era of US financial markets. While rarely discussed by industry outsiders, grasping the contemporary state of index provision is indispensable for making sense of financial markets. Today, indices rather than ‘the market’ increasingly steer financial flows.
+
+The un-American age of passive investing?
+
+Why has passive investing become so important in the 21st century? While passive funds (i.e. exchange traded funds and index mutual funds) have been available for decades, investors shunned them for a long time. For many years, pundits even called these investment vehicles ‘un-American’. It was complained that they merely replicated the performance of specific stock markets, rather than trying to outperform the market by picking stocks. Some critics even asked whether passive investing was ‘worse than Marxism?’
+
+By contrast, investors who beat the market — from Warren Buffett to George Soros, and Ken Griffin — were perceived as the bedrock of American finance, not free-riders who merely imitated the market’s average success.
+
+This changed dramatically with the global financial crisis of 2007-2009. While the ‘Great Moderation’ before the crisis was marked by an exorbitant growth in financial asset returns, in a post-crisis QE-world active fund managers could no longer achieve high yields while simultaneously charging hefty fees. This made it apparent how expensive their business proposition actually was. As a consequence, globally at least US$3,200 billion of investments have exited actively managed equity funds, while concomitantly more than US$3,100 billion have entered index equity funds between 2006 and 2018.
+
+As S&P’s SPIVA scorecard shows, the vast majority of actively managed funds have been incapable of beating broad market indices over longer periods of time but nonetheless charged high fees. While this was not perceived as a major problem in the pre-crisis period of exorbitant asset returns, it became fundamental for investment decisions in a post-crisis, low yield environment. The result was a money mass-migration from actively managed funds to much cheaper passive funds, that merely replicate financial indices throughout the 2010s. By mid-2019, for the first time the assets of US equity index funds have exceeded the assets of actively managed equity funds. As a result, we have now entered the new age of passive investing. One in which indices are front and center.
+
+One crucial characteristic of this new era of global finance is the new relationship of funds and providers. Index funds in effect delegate their investment decisions to index providers. Index providers are the companies that create and maintain the indices on which passive funds are built. They profit nicely from the new status quo, because asset managers have to pay fees if they replicate them. As Howard Marks of Oaktree Capital stated: ‘somebody is making very active decisions about which stocks will be in each “passive” product. […] the people who create the indexes are deciding which stocks will be invested in’.
+
+Index investing thus represents a form of ‘delegated management’. Every discretionary decision by index providers has a ‘flow through effect on the investor’s portfolio’.
+
+In the past, indices primarily served informational purposes. An index such as the American S&P 500, the British FTSE 100 or the Japanese Nikkei was primarily a numerical representation of a particular stock market. In this context, indices served a humble role: as benchmarks, against which analysts could gauge the performance of stocks. While the decisions of index providers had some influence on actively managed funds, the recent rise of passive investing transformed their role profoundly. Today, they are ‘steering’ funds, via their selective inclusions of companies or countries. Appearing in key indices can cause inflows of many billions of US$, while conversely exclusions can lead to large quasi-automatic outflows. Enrichment (such as that enjoyed this year by Elon Musk) or ruin can depend on index entries.
+
+Rather than ‘the market’, it is increasingly index committees that make financial investment decisions, shaping the fate and fortunes of listed companies. Index providers have therefore become powerful actors in the fabric of US capitalism, playing a newfound role as kingmaker. The indices they create are crucial building blocks in the new era of passive investing. As the FT’s Robin Wigglesworth points out, ‘financial indices are arguably the most under-appreciated force shaping global markets’.
+
+Where do indices actually come from? Why do they matter?
+
+Put simply indices are numerical tools that allow for the comparative evaluation of groups of assets over time. The purpose of indices is to display the performance of a specific economic entity in one single number — for example, a nation’s stock market (S&P 500). This makes the fortunes of a given basket of companies relatively easy to understand, and also comparable over time.
+
+An index typically consists of a series of corresponding dates and numbers, evaluations based on a series of assets (e.g. stock prices). These assets are assigned specific weightings, whose sequence depicts the performance of the evaluated assets. In this way, the index demarcates the boundaries of what these entities are: the 500 companies that the S&P 500 evaluates are synonymous with the US stock market (or at least, they are widely perceived this way).
+
+These indices are important measures for economic activity and have become a constant feature of our depiction of and thinking about the economy. As index theorists Rauterberg and Verstein have noted:
+
+[There] is a myth of objectivity, which characterizes indices as near-Platonic mathematical constructs that exist largely outside of human intervention and creativity. […] According to this view, indices are either themselves objective facts or else factual statements about the world. For example, that the S&P 500 is above 1000 is an observable, objective truth and one that does not rely on human judgment or interpretation […] like the temperature.
+
+But rather than a purely technical exercise, constructing indices is inherently political. They represent ‘deliberate decisions’, as every index is a managed portfolio whose composition is decided by the respective index provider. The committees at index providers decide inclusions and exclusions, and as such they have ‘enormous discretion’ in these decisions. In fact, processes of index production are inherently subjective activities. As Rauterberg and Verstein put it: human discretion and value judgement are essential ingredients in even the most “objective” indices’.
+
+The index provider industry has adopted ‘free float’ market capitalization — total market capitalization minus shares held for the long-term by founders or governments —  as their ostensibly objective basis for virtually all index calculations.
+
+But clearly this ‘free float’ approach leads to outcomes that surprise most laymen. Take for example the well known MSCI World Index. For many retail investors, this index is synonymous with a globally diversified asset allocation, but actually the weight of US stocks is over 66%. Similarly, the result of buying a fund that tracks the MSCI Emerging Markets Index is a portfolio that is 41% invested in China, whose weight has surged from 18% in 2014. In the US, the all-important S&P 500 index has become much less diversified. The weight of just the top five big tech companies has doubled from 11% in 2014 to 22% in 2020. By contrast, the share of the bottom 300 companies has declined from 20%, to under 15%.
+
+Moreover, indices have a governing effect on those that are being evaluated. They incentivize the companies or states that are being assessed to comply and conform with the normative assumptions underlying those numerical representations. This seems inevitable: better index performance has positive ideational and material effects.
+
+The most prominent example of such numerical evaluation measures in global finance are credit rating agencies, which can shift the asset allocation of billions of US$ by up- or downgrading firms and countries.
+
+In a similar vein, by deciding what to include or to exclude from an index, providers make assessments about the investment-worthiness of firms and entire countries (e.g. the pivotal MSCI World and Emerging Markets indices) and can move financial flows. The same is true for how inclusion decisions are calculated. The best example is the recent inclusion of China in all key emerging markets indices. This decision alone is expected to result in long-term inflows from foreign investors of up to US$400 billion.
+
+Arguably, in this new age of passive asset management index providers are to equity markets what credit rating agencies are to bond markets — critical gatekeepers that exert de facto regulatory power.
+
+Steering funds: the growing power of index providers
+
+Historically, index providers were primarily providers of information. Indices were ‘news items’, helpful for investment decisions — but arguably not essential. Actively managed funds merely used them as baselines to compare their performance, they were not expected to direct financial markets. As previously noted, the hallmark of active investors was to be different from the index — rather than being reliable, the index was there to be beaten. Hence, index providers’ decisions over the composition of their indices had relatively limited impact on financial flows — deviation from the index was a worthy risk metric. But their exact composition was not yet crucial to investors, listed companies or countries.
+
+This changed fundamentally with the global financial crisis, which triggered two reinforcing trends: concentration, and the rise of passive investment. Together, these transformed index providers from merely supplying information to exerting power over asset allocation in capital markets.
+
+First, the index industry concentrated — not least because banks sold non-core businesses to raise cash, as they tried to stay afloat during the financial meltdown that engulfed their industry. By 2017, the three indices S&P DJI, MSCI and FTSE Russell accounted for 27%, 26% and 25% of global revenues in the index industry, respectively.
+
+This market concentration led to a growing power position of the few index providers that had historically positioned themselves and their brands in financial markets. With profit margins averaging between 60-70%, they operate in a quasi-oligopolistic market structure. This is because their indices are not easily substitutable, due to unique brand recognition and network externalities, e.g. through liquid futures markets based on their indices. The S&P 500, for instance, represents US blue chips like no other index. It is also the most widely tracked index globally, and S&P 500 index futures are the most traded futures contract in the world.
+
+Second, and more importantly, the money mass-migration towards passive investments significantly increased the authority of index providers. They came to influence asset allocation in unprecedented ways, as more and more funds directly tracked the indices they own, construct and maintain. ETFs indexed to FTSE Russell indices more than doubled from US$315 billion in 2013 to US$765 billion in 2019. Meanwhile passive funds tracking MSCI indices even increased more than sevenfold between 2008 and 2020, from $132 billion to more than $1 trillion. ETFs and index mutual funds that follow S&P DJI indices increased from $1.7 trillion in 2011 to staggering $6.3 trillion in 2019. Whereas in the past indices only loosely anchored fund holdings around a baseline, now they have an instant, ‘mechanic’ effect on the holdings of passive funds.
+
+As passive funds simply replicate an index, index providers’ decisions to change index compositions lead to quasi-automatic asset reallocations. Index providers now effectively ‘steer’ financial flows.
+
+In addition, index providers increasingly also have a steering effect over actively managed funds. Established and well-known indices are used as direct benchmarks by actively managed funds which measure their performance against these indices. For this reason they are crucial as baselines to inform investment decisions.
+
+Benchmarking against indices has reached enormous proportions: US$14.8 trillion, US$16 trillion and US$11.5 trillion of assets (equities and bonds) was benchmarked against the indices of MSCI, FTSE Russell and S&P DJI in 2018/19, respectively. This is up from US$7 trillion (MSCI), US$7.1 trillion (S&P DJI) and US$7.1 trillion (FTSE & Russell) in 2013.
+
+Essentially, the rise of passive management also increases the authority of index providers through active management. By steering evermore passive capital index decisions mechanically move ever larger parts of the markets. This produces a ‘pull effect’, that actively managed funds need to follow.
+
+Of course, this effect varies between investor types — with hedge funds having more leeway in following index changes, whereas pension funds have to follow index recompositions much more closely. However, this effect is hard to negate. Today, the largest trading day in the US stock market is Russell Recon — the yearly reconstitution of FTSE Russell benchmark indices in June.
+
+Overall, with the ongoing shift towards passive asset management, index providers turned into powerful market actors. No longer mere benchmarks, their indices have become central building blocks in this new era of US financial markets. In the past, the purpose of indices was to measure markets, now they move markets.
+
+New era, new problems
+
+Indices are here to stay and so index providers are becoming ever more powerful actors in this new age of American finance. However, as we illustrated in detail in a recently published paper, their rise and business model are not unproblematic. Instead, distinctive new problems arise in this new era of American finance.
+
+As previously noted, index providers have significant discretion in devising their methodologies of index creation. Adriana Robertson, for instance, highlights that the methodology of the pivotal S&P 500 index was changed at least eight times between 2015 and 2018.
+
+While representing the US stock market, the S&P 500, for instance, allows companies to be based in ‘domiciles of convenience’ — tax havens such as Bermuda, Jersey or the Cayman Islands. This encourages both aggressive tax planning and avoidance schemes. Contrastingly, index providers decided during the 2000s that block shareholdings were excluded from index weight calculations. This led to a global migration of funds away from East Asia and Continental Europe, where strategic blockholdings and family ownership are more pronounced than in US and UK companies.
+
+The ‘new permanent universal owners’ Blackrock, Vanguard and State Street that dominate the index funds industry as the ‘Big Three’ are exempt from this rule, however. These three ‘universal owners’ share many characteristics of long-term blockholders. Especially, the shares they hold in passive funds are not readily available for trading. Finally, index providers have become central actors in a green economic restructuring, as they positioned themselves as key standard-setters for ESG funds (environmental, social and governance). For this reason, index providers have an important effect on setting corporate governance standards, as they increasingly define ‘the norms of what’s considered acceptable in international finance’.
+
+On the other hand, index providers are certainly not free from political influence. As Mike Bird from The Wall Street Journal argued, Chinese authorities have been quite successful in pressuring MSCI and other index providers to include Chinese A-shares into their flagship emerging market indices.  Foreign investors forced to invest into China after the inclusion have to play according to Chinese rules of how markets work. As a result, the pensions of US veterans (which are partially invested in passive funds tracking these indices) were suddenly invested in Chinese defence companies. This was hotly debated by US lawmakers, resulting in an investment ban decreed by the Trump administration. This has forced index providers to rethink their China inclusion strategy.
+
+Index providers have become central actors in capital markets — their decisions impact investment allocations worth trillions of dollars. Notably, the coronavirus pandemic has not reversed this trend —  it may even have accelerated it. Bond index funds have witnessed record inflows in 2020.
+
+Concentration in the index provider industry is also continuing with the recently announced $44 billion acquisition of IHS Markit (including the iBoxx bond indices) by S&P being a case in point. As the case of insider trading at S&P DJI indicates, rather than being neutral, technical exercises, index calculations can be prone to malicious behavior. While this was the first discovered and publicly disclosed case, it is not unlikely that this is more widespread. And will become more of a problem as indices rise in importance.
+
+In other words, index providers have become oligopolies with enormous influence on financial investment decisions — and the striking case of Tesla will not be the last. Some Wall Street analysts are already advising their clients not to increase their holdings in accordance with the index rebalancing. Contrasting with this one overblown data point, ‘by virtually every conventional metric’ Tesla was dramatically overvalued, as the stock price trades at more than 1,000 times its price earnings ratio.
+
+While this might certainly be the case, passive funds are now ‘locked in’ due to an index inclusion — with an estimated $70-120 billion of (quasi-)passive funds being steered into Tesla’s stock.
+
+Arguably, to exploit this wave of predictable inflows Tesla has announced to raise $5 billion in share sales over the coming months. It might not be an exaggeration to call this behavior ‘gaming’ the index inclusion. But regardless: the pre-eminence of the index is here to stay. Welcome to a new era in American finance where indices, not investors increasingly shape financial markets.

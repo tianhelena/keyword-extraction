@@ -1,0 +1,43 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (photo: Feodora Chiosea by Getty Images)    
+ 
+ 
+ Confronting the Hazards of Rising Leverage   
+ By  Adolfo Barajas  and  Fabio Natalucci 
+ عربي ,  中文 ,  Español ,  Français ,  日本語 ,  Português ,  Русский 
+ Leverage, the ability to borrow, is a double-edged sword. It can boost economic growth by allowing firms to invest in machinery to expand their scale of production, or by allowing people to purchase homes and cars or invest in education.  During economic crises, it can play a particularly important role by providing a bridge to the economic recovery. 
+ 
+ The question becomes how to ensure that the fledgling recovery is not endangered, while at the same time avoiding an excessive buildup of leverage. 
+ 
+ Most recently, amid the sharp contraction in economic activity brought on by lockdowns and social distancing practices during the COVID-19 pandemic, policymakers took actions to ensure that firms and households could continue to access credit markets and borrow to cushion the downturn. Many firms managed to limit the number of workers they had to lay off. And cash-strapped households could continue to spend on necessary items such as rent, utilities, or groceries. 
+ However, high levels or rapid increases in leverage can represent a   financial vulnerability , leaving the economy more exposed to a future severe downturn in activity or a sharp correction in asset prices. In fact,   financial crises have often been preceded by rapid increases in leverage , often known as “credit booms.” 
+ Rising leverage, before and during the COVID-19 crisis 
+ Leverage can be measured as the ratio of the stock of debt to GDP, approximating an economy’s capacity to service its debt. Even before the COVID-19 crisis, leverage in the nonfinancial private sector—comprising households and nonfinancial firms—had been increasing steadily in many countries. From 2010–19, this sector’s global leverage rose from 138 percent to 152 percent, with leverage of firms reaching a historical high of 91 percent of GDP. Easy financial conditions in the aftermath of the global financial crisis of 2008–09 have been a key driver of the rise in leverage. 
+ In both advanced and emerging market economies, borrowing has increased even further as a result of the   policy support provided in response to the COVID-19 shock . In addition, the decline in output suffered by many countries has contributed to the increase in the debt-to-GDP ratio, and corporate leverage has risen an additional 11 percentage points of GDP through to the third quarter of 2020. 
+ 
+ A policy dilemma 
+ Policymakers face a dilemma. Accommodative policies (cut in policy rates in conjunction with quantitative easing to reduce firms’ and households’ borrowing costs) and the resulting favorable financial conditions have been supportive of growth but also fueled an increase in leverage. Such an increase, while needed in the short term to cushion the global economy from the devastating impact of the pandemic, may be a vulnerability that poses a risk to financial stability further down the road. 
+ Indeed, our  latest analysis  provides evidence of this tradeoff. 
+ Easing financial conditions—when investors lower their pricing of credit risk—provide a boost to economic activity in the short term. However, the easing comes with a cost. Further along in the medium term, a heightened risk of a sharp downturn arises, starting at 7-8 quarters out. This tradeoff becomes more accentuated during credit booms. That is, the near-term boost is greater, while the medium-term downside risks are also larger. 
+   
+ 
+ For policymakers, the question becomes how to ensure that the fledgling recovery is not endangered, while at the same time avoiding an excessive buildup of leverage. 
+ Macroprudential policies can help 
+ Our  analysis  suggests there are measures policymakers can take to resolve, or at least lessen, this dilemma. Macroprudential policies—such as setting limits on borrower eligibility, raising minimum capital, or liquidity ratios for banks—can tame buildups in nonfinancial sector leverage. 
+ The analysis shows that, after countries tighten borrower-related tools (e.g., reducing the maximum loan-to-value ratio for mortgage borrowers), leverage for households slows. When policymakers tighten liquidity regulations on banks (e.g., raising the minimum amount of liquid assets that must be held in proportion to total assets), leverage of firms slows in response. And when policymakers in emerging markets tighten foreign currency constraints on banks (e.g., limiting their open foreign currency positions), leverage of firms slows down as well. 
+ Importantly, macroprudential tightening can mitigate downside risk to growth, thus alleviating the key policy tradeoff. Furthermore, if policymakers loosen financial conditions via monetary policy but also concurrently tighten macroprudential tools, medium-term downside risks to economic activity can be mostly contained. 
+ When to act 
+ In the current context, charting a course for macroprudential tightening is not straightforward. 
+ Many countries are experiencing a nascent recovery and broad tightening of financial conditions could hurt growth. Yet possible lags between the activation and impact of macroprudential tools call for early action. Moreover, even in the most advanced countries, the macroprudential toolkit is aimed solely at banks, while credit provision is increasingly migrating toward   nonbank financial institutions . 
+ These considerations build a strong case for policymakers to swiftly tighten macroprudential measures to tackle pockets of elevated vulnerabilities, while avoiding a general tightening of financial conditions. Policymakers will also need to urgently design new tools to address leverage beyond the banking system. 
+   
+   
+ 
+ 
+ 
+ 
+ 

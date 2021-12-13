@@ -1,0 +1,18 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (Photo: Pawinee/Adobe Stock)   
+ 
+ 
+ Chart of the Week Brave New World: Tracking Trade from Space   
+ By  Serkan Arslanalp ,  Robin Koepke , and  Jasper Verschuur 
+ When the onset of the pandemic drastically changed economic conditions across the globe, policymakers with access to real-time economic data were much better placed to make quick, informed policy decisions.  A new world of big data is now unfolding, where satellites orbiting in space are helping to inform economic decisions—both for industry and policymakers. 
+ 
+ New IMF staff   research   shows that some of the large data gaps routinely faced by small fragile states could be filled using satellite data. Specifically, trade volumes can be measured and tracked in real time, which is a critical input for policy decisions. For example, as shown in our latest chart of the week, this method of tracking trade could have highlighted trade and supply-chain disruptions to the Pacific region well before the World Health Organization (WHO) declared a global pandemic in March 2020. 
+ In the case of Pacific island countries, the research shows that although these nations managed to insulate themselves from COVID-19 infections by closing their borders, they were not insulated from the economic repercussions of the pandemic, especially in early 2020. 
+ All countries experienced sharp import contractions in the early stages of the pandemic, due to supply disruptions related to port restrictions that affected the regional trade network, including lockdowns in China. Later, imports were further depressed by a lockdown-induced demand shock. Imports subsequently recovered in countries with low dependence on tourism but remained depressed in tourism-oriented economies. 
+ While different strands of research continue to examine how satellite data can better inform trade (and other) patterns, our new estimation method helps fill gaps in official data and provides early warnings of turning points in economic activity. The algorithm overcomes the challenges of previous studies in estimating cargo payloads; uses detailed information on shipping liner schedules to validate port calls; and applies country-specific information to define port boundaries. Using satellite-based vessel tracking data from the   UN Global Platform , it constructs daily indicators of port and trade activity for the Pacific island countries. 
+ Timely information on trade disruptions is of particular importance for Pacific island countries given their vulnerability to external shocks, including climate-related natural disasters. The approach discussed here could be extended to measuring the impact of such shocks, providing critical information to close data gaps and potentially help build resilience to climate change. These and other related issues will be discussed in November at the   IMF Statistical Forum   on Measuring the Economic and Financial Dimensions of Climate Change. 
+ 

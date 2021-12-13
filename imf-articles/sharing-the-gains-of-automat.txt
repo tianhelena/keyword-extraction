@@ -1,0 +1,30 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (Image: elenabs/iStock by Getty Images)    
+ 
+ 
+ Sharing the Gains of Automation: The Role of Fiscal Policy   
+ By  Nikolay Gueorguiev  and  Ryota Nakatani 
+ Careful calibration of spending and tax policies can reduce inequality caused by automation. 
+ For many observers, automation has been responsible for both strong economic growth and rising inequality in many countries in recent decades. Automation raises productivity, but it can exacerbate inequality.  This is because it replaces low-skilled workers and helps owners of capital earn bigger monopoly rents. And with the advent of next-level automation in the form of robots, the challenge is more pressing than ever. 
+ 
+ Fiscal policy instruments can reduce inequality, generally at the cost of some foregone growth in the long term. 
+ 
+ In recent   IMF staff research , however, we find that the right fiscal policies—government spending and tax policies—can improve the trade-off between economic growth and inequality. But not all fiscal policies are equally effective in this regard. 
+ We studied several comprehensive fiscal policy packages to address the growth-inequality tradeoffs in the era of automation. Inequality can generally be reduced by redistributing some of the gains of automation from winners (owners of capital and skilled workers) toward losers (generally low-skilled workers, who suffer from job loss and low wages). That said, redistribution policies generally require additional taxation, which can depress investment and labor supply and may thus reduce output. We discuss the pros and cons of various policy packages and seek to define the relevant growth-inequality trade-offs for each of them. 
+ Finding the right balance 
+ For our analysis, we captured the defining features of automation: replacing low-skilled workers and raising the productivity, profits, and thus the market power of its adopters. We link corporate market power to the degree of automation based on empirical evidence. Specifically, we assume a positive correlation between the firms’ price markup (a measure of market power) and their usage of robots (a proxy for automation), calibrating the relationship using US data. Intuitively, the higher the robots per worker, the higher the productivity, and the higher the profits. For example, large firms can take advantage of owning the platform they established and acquiring other firms in the same sector to obtain high market shares and large markups. 
+ Our research looks at the growth-inequality tradeoffs through the prism of three tax-and-redistribute packages: a tax on capital income, a tax on excess corporate profits (the markup tax), and a tax on robots. All packages involve an increase in a particular tax, with the proceeds used for transfers to the low-skilled workers. A fourth package directly cuts the wage tax for the unskilled workers. 
+ We found the effects and trade-offs are very different in the short term vs. the long run. In the short term, three policy packages (excluding the capital income tax) deliver modest output-per-capita gains and a sizable reduction in inequality. However, as time passes, capital accumulation and productivity begin to lag. The robot tax is the most powerful tool to reduce inequality, as it slows down the replacement of low-skilled labor by robots, but the flip side of this is slower accumulation of highly productive robots and forgone output.  Similarly, a tax cut of wages of unskilled workers both reduces inequality and raises output in the short run, while the larger share of unskilled labor (less productive than robots) weighs on the productivity in the long run. 
+ Another way to look at the problem is to compare income dynamics of skilled and unskilled workers, a key aspect of inequality. The story is similar. Skilled workers, who work with (and thus complement) robots in the production process, will see an initial boost to their incomes but a gradual decline over a longer period. Unskilled workers benefit from redistribution policies in a durable way, although the improvements fizzle out in the long term. 
+ Three lessons learned 
+ 
+ Fiscal policy instruments can reduce inequality, generally at the cost of some foregone growth in the long term. The specific point to be chosen along this trade-off depends on society’s preferences regarding growth and inequality. 
+ Policymakers should consider both the short- and long-run benefits and costs of policies. What performs best in the short term can turn costly in the long term. This does not automatically invalidate such policies—societal preferences will have the last word—but needs to be taken into account. 
+ Fiscal policy could most efficiently address the equity-efficiency tradeoff by taxing excess profit of firms with market power in the automated economy. 
+ 
+ The post-COVID era could see an acceleration in the adoption of automation, especially given the emerging labor shortages in many countries. Our analysis provides some insights on what policy can do to ameliorate the negative side effects of this process. 
+ 

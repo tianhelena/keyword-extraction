@@ -1,0 +1,36 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Metals Demand From Energy Transition May Top Current Global Supply   
+ By  Nico Valckx ,  Martin Stuermer ,  Dulani Seneviratne,  and  Ananthakrishnan Prasad 
+ Firm, market, and country level factors may weigh on metals production under a net-zero scenario. 
+ The clean energy transition needed to avoid the worst effects of climate change could unleash unprecedented metals demand in coming decades, requiring as much as 3 billion tons. 
+ A typical electric vehicle battery pack, for example, needs around 8 kilograms (18 pounds) of lithium, 35 kilograms of nickel, 20 kilograms of manganese and 14 kilograms of cobalt, while charging stations require substantial amounts of copper. For green power, solar panels use large quantities of copper, silicon, silver and zinc, while wind turbines require iron ore, copper, and aluminum. 
+ 
+ The needed ramp-up in mining investment and operations could be challenging. 
+ 
+ Such needs could send metal demand and prices surging for many years, as we outlined in a recent  blog  based on our research for the  October World Economic Outlook  and a new  IMF staff paper . 
+ Metal prices have already seen  large increases  as economies re-opened, highlighting a critical need to analyze what could constrain production and delay supply responses. Specifically, we assess whether there are enough mineral and metal deposits to satisfy needs for low-carbon technologies and how to best address factors that could restrain mining investment and metals supplies. 
+ Supply constraints 
+ Under the  International Energy Agency’s Net-Zero by 2050 Roadmap , the share of power from renewables would rise from current levels of around 10 percent to 60 percent, boosted by solar, wind, and hydropower. Fossil fuels would shrink from almost 80 percent to about 20 percent. 
+ Replacing fossil fuels with low-carbon technologies would require an eightfold increase in renewable energy investments and cause a strong increase in demand for metals. However, developing mines is a process that takes a very long time—often a decade or more—and presents various challenges, at both the company and country level. 
+ The first question is how far current metals production is stretched and whether existing reserves can provide for the energy transition. Given the projected increase in metals consumption through 2050 under a net zero scenario, current production rates of graphite, cobalt, vanadium, and nickel appear inadequate, showing a more than two-thirds gap versus the demand. Current copper, lithium and platinum supplies also are inadequate to satisfy future needs, with a 30 percent to 40 percent gap versus demand. 
+ 
+ We also examined whether production can be scaled up, by looking at current metal reserves. For some minerals, existing reserves would allow greater production through more investment in extraction, such as for graphite and vanadium. For other minerals, current reserves could be a constraint on future demand—especially lithium and lead, but also for zinc, silver, and silicon. 
+ Importantly, however, metal reserves and production are not static. Firms can expand reserves through innovation in extraction technology and further exploration efforts may lead to increasing the future supply of metals to meet future demands. 
+ Moreover, metals recycling can also increase supplies. Reuse of scrap metals only occurs on a large scale for copper and nickel, but it’s now increasing for some scarcer materials like lithium and cobalt. 
+ One complicating factor is that some important supplies are generally very concentrated. This implies that a few producers will benefit disproportionately from growing demand. Conversely, this lays bare energy transition risks from supply bottlenecks should investments in production capacity not meet demand, or in case of potential geopolitical risk inside or between producer nations. 
+ 
+ The Democratic Republic of the Congo, for example, accounts for about 70 percent of cobalt output and half of reserves. The role is so dominant that the energy transition could become more difficult if the country can’t expand mining operations. Similar risks apply to China, Chile, and South Africa, which are all top producers for some of the metals most crucial to the energy transition. Breakdowns or disruptions in their institutions, regulations, or policies could complicate supply growth. 
+ Financing concerns 
+ A related challenge is insufficient financing for metals and mining investment due to growing investor focus on environmental, social, and governance considerations, or ESG. Mining involves environmental impacts and fuels global warming, albeit just a fraction of coal and gas generation, as pointed out by a  World Bank report on the mineral intensity of the energy transition . 
+ Reduced access to financing by firms with lower ratings could constrain production, adding another potential supply-chain bottleneck. In response, miners are trying to reduce their carbon footprint. An  S&P Global analysis  shows that the ESG average score of the  S&P Global 1200 , an index representing about 70 percent of global stock-market capitalization, stood at 62 out of 100, while the metals and mining sector’s score rose to 52 last year from 39 in 2018. This may indicate miners are catching up with other sectors to become more attractive to global investors seeking to build more responsible portfolios. 
+ Commitment to better environmental scores could help unlock more green financing for mining firms. This is supported by our analysis of S&P 1200 firms, which shows that mining companies that raised their ESG ratings from 2018 to 2020 also saw an increase in debt and equity financing. More generally, the effort to unlock more green financing is also aided by global efforts from, among others, the World Bank’s  Climate-Smart Mining Initiative  and  IMF support for greening the recovery  and promoting  green finance . 
+ The world needs more low-carbon energy technologies to keep temperatures from rising by more than 1.5 degrees Celsius, and the transition could unleash an unprecedented metals demand. While deposits are broadly sufficient, the needed ramp-up in mining investment and operations could be challenging for some metals and may be derailed by market- or country-specific risks. 
+ This blog post benefitted from comments by  Andrea Pescatori . 
+ 

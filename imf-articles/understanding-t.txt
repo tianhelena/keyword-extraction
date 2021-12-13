@@ -1,0 +1,41 @@
+ Previous   Next   
+ 
+ 
+ 
+ 
+ (PHOTO: TRAVELER1116 BY GETTY IMAGES)   
+ 
+ 
+ Understanding the Rise in Long-Term Rates   
+ By  Tobias Adrian ,  Rohit Goel ,  Sheheryar Malik ,  Fabio Natalucci 
+ عربي ,  中文 ,  Español ,  Français ,  日本語 ,  Português,   Русский 
+ The rise in long-term US interest rates has become a focus of global macro-financial concerns. The nominal yield on the benchmark 10-year Treasury has increased about  70  basis points since the beginning of the year.  This reflects in part an improving US economic outlook amid strong fiscal support and the accelerating recovery from the COVID-19 crisis. So an increase would be expected. But other factors like investors’ concerns about the fiscal position and uncertainty about the economic and policy outlook may also be playing a role and help explain the rapid increase early in the year. 
+ Because US bonds are the basis for fixed-income pricing, and affect almost any security around the world, a rapid and persistent yield increase could result in a repricing of risk and a broader tightening in financial conditions, triggering turbulence in emerging markets and disrupting the ongoing economic recovery. In this blog, we will focus on the key factors driving the Treasury yield to help policymakers and market participants assess the interest-rate outlook and attendant risks. 
+ 
+ 
+ 
+ Dissecting yield moves 
+ The yield on a 10-year US Treasury reflects different elements. The  real  Treasury yield, which is a proxy for expected economic growth, as well as the  inflation breakeven rate , a measure of investors’ future inflation expectations. Real yield plus breakeven inflation gives us the  nominal  rate. 
+ Importantly, breakeven rates and real yields represent not only current market expectations of inflation and growth. They also include the compensation investors require for bearing the risks associated with both elements. The  inflation risk premium  is related to future inflation uncertainty. And the real yield includes a  real risk premium  component, which reflects the uncertainty about the future path of interest rates and economic outlook. The sum of the two, commonly referred to as the  term premium , represents the compensation required by investors to bear interest-rate risk embedded in Treasury securities. 
+ In addition, the 10-year yield can be usefully split into two different time horizons, as different factors may be at work over the short- versus longer-term: the  5-year yield , and what markets call the  “5-year-5-year forward, ” covering the second half of the bond’s 10-year maturity. 
+ The recent increase in the 5-year yield has been driven by a steep rise in short-term breakeven inflation. This has gone hand in hand with a rise in commodity prices, as the global economic recovery has gained traction, as well as with the Federal Reserve’s reiterated intention to maintain an accommodative monetary policy stance to achieve its objectives of full employment and price stability. 
+ By contrast, the increase in the 5-year-5-year forward is primarily due to a sharp rise in real yields, pointing to an improvement in growth outlook with longer-term breakeven inflation appearing well-anchored. 
+ 
+ 
+ 
+ Putting all this together, the rise in the 5-year inflation breakeven reflects an increase in both expected inflation and inflation risk premia. Meanwhile, the sharp rise in the longer-term real yield is primarily due to a higher real risk premium. This points to greater uncertainty about the economic and fiscal outlook, as well as the outlook for asset purchases by the central bank, in addition to longer-term drivers such as demographics and productivity. 
+ 
+ Implications for monetary policy 
+ Should the US central bank control or at least attempt to shape these dynamics? Monetary policy remains highly accommodative, with sharply negative real yields expected in coming years. An overnight policy rate essentially at zero, in combination with the Federal Reserve’s indication that it will allow inflation to moderately overshoot its inflation target for some time, provides significant monetary stimulus to the economy, as investors do not anticipate an increase in the policy rate for at least a couple of years. Careful and well-telegraphed communication about the expected future path of short-term interest rates has shaped the yield curve at the shorter end. 
+ However, the longer end of the yield curve is also importantly affected by asset purchases. In fact, asset purchases as the main unconventional monetary policy tool in the United States operate via a compression of risk premia, supporting risky asset prices and easing broader financial conditions. Hence the rise of real risk premia at the 5-year-5-year forward horizon can be interpreted as a reassessment of the outlook for, and risks surrounding, asset purchases, taking into account the expected increase in Treasury supply related to fiscal support in the United States. 
+ Forward guidance about the future stance of monetary policy has played a crucial role during the pandemic. There are two aspects of forward guidance that shape the view of investors:  the path of policy rates  and  the strategy about asset purchases . While the path of short-term interest rates appears to be well understood at this point, there is a wide range of views among market participants about the outlook for asset purchases. It is therefore crucial that the Federal Reserve, once the beginning of the policy normalization process draws closer, provides clear and well-telegraphed communication about the pace of future asset purchases to avoid unnecessary volatility in financial markets. 
+ A gradual increase in longer-term US rates—a reflection of the expected strong US recovery—is heathy and should be welcomed. It would also help contain unintended consequences of the unprecedented policy support required by the pandemic, such as stretched asset prices and rising financial vulnerabilities. 
+ The IMF’s baseline expectation is one of continued easy financial conditions, even if US rates were to rise further. However, a tightening of global financial conditions remains a risk. Given the asynchronous and multispeed nature of the global recovery, fast and sudden increases in US rates could lead to significant spillovers across the world, tightening financial conditions for emerging markets and throwing a wrench in their recovery process. 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
