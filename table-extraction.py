@@ -5,14 +5,14 @@ import json
 import string
 
 def build_json(rows):
-    data = {}
-    for row in clean_rows:
-        current_level = data
-        for cell in row:
-            if cell not in current_level:
-                current_level[cell] = {}
-                current_level = current_level[cell]
-    return data
+    d = {}
+    for path in rows:
+        current_level = d
+        for part in path:
+            if part not in current_level:
+                current_level[part] = {}
+            current_level = current_level[part]
+    return d
 
 def is_header(row):
     return row[0].strip() and all([not cell.strip() for cell in row[1:]])
@@ -34,27 +34,15 @@ for i, row in enumerate(ws.rows):
 
 datas = []
 section = []
-
 for row in clean_rows:
     if not section:
         section.append(row)
     elif is_header(row):
-        datas.append(build_json(section))
-        section = []
+        datas.append({section[0][0] : build_json(section[1:])})
+        section = [row]
     else:
         section.append(row)
 
+with open('./table.json', 'w', encoding='utf-8') as f:
+    json.dump(datas, f, ensure_ascii=False, indent=4)
 
-with open('./table.json', 'a', encoding='utf-8') as f:
-    for d in datas:
-        json.dump(d, f, ensure_ascii=False, indent=4)
-
-# data_list = []
-
-# for rownum in range(1, sh.nrows):
-#     data = OrderedDict()
-
-# row_values = sh.row_values(rownum)
-# data['<Column Name1>'] = row_values[0]
-# data['<Column Name2>'] = row_values[1]
-# data_list.append(data)
