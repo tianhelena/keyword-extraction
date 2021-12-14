@@ -22,18 +22,18 @@ for i, row in enumerate(ws.rows):
     else:
         first_non_empty = next(i for i,cell in enumerate(row) if cell.strip())
         clean_row = clean_rows[-1][:first_non_empty] + row[first_non_empty:]
+        clean_row = [ ''.join(filter(lambda c: c in string.printable, cell)).strip() for cell in clean_row]
         clean_rows.append(clean_row)
 
 data = {}
 for row in clean_rows:
     current_level = data
     for cell in row:
-        cell = ''.join(filter(lambda c: c in string.printable, cell)).strip()
         if cell not in current_level:
             current_level[cell] = {}
         current_level = current_level[cell]
 with open('./table.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    json.dump(clean_rows, f, ensure_ascii=False, indent=4)
 
 # data_list = []
 
