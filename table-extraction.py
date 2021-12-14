@@ -45,8 +45,9 @@ for row in clean_rows:
         section.append(row)
 
 
-with open('./table.json', 'w', encoding='utf-8') as f:
-    json.dump(datas, f, ensure_ascii=False, indent=4)
+with open('./table.json', 'a', encoding='utf-8') as f:
+    for d in datas:
+        json.dump(d, f, ensure_ascii=False, indent=4)
 
 # data_list = []
 
