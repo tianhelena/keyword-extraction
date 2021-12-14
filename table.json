@@ -1,257 +1,602 @@
 [
-    [
-        "Appendix II. Stress Testing Matrix (STeM)",
-        "",
-        ""
-    ],
-    [
-        "Domain",
-        "",
-        "Assumptions"
-    ],
-    [
-        "Domain",
-        "",
-        "Top-down by FSAP Team"
-    ],
-    [
-        "Banking Sector: Solvency Stress Test",
-        "",
-        ""
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Institutions included",
-        "All banks (fifteen institutions with total assets equivalent to about 100 percent of GDP) including the three DSIBs."
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Market share",
-        "About 95 percent of total financial system assets."
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Data source and starting date",
-        "Data Sources: Supervisory returns, special requests to banks and publicly available data.\n  Baseline date: Balance sheets as of December 2020. Credit and funding risk based on historical data back to 2010.\n  Scope of Consolidation: Consolidated bank balance sheets."
-    ],
-    [
-        "2. Methodology",
-        "Overall framework",
-        "Credit risk assessed using two methodologies to compensate for model and parameter uncertainty as amplified by the idiosyncratic nature of the COVID pandemic. These two methods will comprise: an IMF Balance sheet-based model and a static credit VaR using Monte Carlo simulation to compute expected and tail losses. These will be complemented with sensitivity analysis (see below).\n  Given the high dollarization of bank credit and the asymmetric impact of the pandemic across economic activities, the credit portfolio will be split by credit types (retail, mortgages, SMEs and commercial), currency, and main activity of the corporate borrowers. In addition, concentration risk will be assessed with a case-by- case analysis of the financial statements of the largest ten borrowers for each bank, using the results of a corporate stress test."
-    ],
-    [
-        "2. Methodology",
-        "Satellite models for macro- financial linkages",
-        "Satellite models based on previous IMF TA linking PDs, NPL ratios, and provisioning levels to a set of macroeconomic variables comprising GDP growth, FX rate depreciation, interest spreads, and other macro variables.\n  Net interest income based on dynamic panel econometrics."
-    ],
-    [
-        "2. Methodology",
-        "Stress test horizon",
-        "3-years (2020-2023)."
-    ],
-    [
-        "2. Methodology",
-        "Assumptions",
-        "Static balance sheet assumption: (i) total assets and credit growth evolve in line with nominal GDP growth; (ii) the composition of the asset side of the balance sheet remains constant throughout the stress test horizon; (iii) banks build capital through retained earnings; and (iv) short-term liabilities adjust as needed to close the accounting identity\n  Dividend distribution allowed if net income after taxes are positive and if banks are adequately capitalized. The dividend payout ratio is assumed to be 50 percent."
-    ],
-    [
-        "3. Type of analyses",
-        "Scenario analysis",
-        "Scenario-based stress tests focus on the impact of the macroeconomic environment on FX-induced credit risk, COVID-related credit losses, and concentration risk.\n  Given the domestic orientation of banks, the scenarios focus on domestic macro- financial variables (e.g., GDP, inflation, interest rates, unemployment rate, exchange rate, and property prices)."
-    ],
-    [
-        "Domain",
-        "",
-        "Assumptions"
-    ],
-    [
-        "Domain",
-        "",
-        "Top-down by FSAP Team"
-    ],
-    [
-        "Domain",
-        "",
-        "To account for the differential impact of COVID across businesses, the scenarios will simulate the evolution of value added by economic sectors. These sectors are grouped in three categories to differentiate their sensitivity to the pandemic.\n  Three scenarios are simulated at the yearly frequency, using NBG and RES models:\n  Baseline scenario using the April 2021 WEO projections. The economy starts to recover during mid-2021 from the April 2020 slump, and is supported by benign external and domestic financial conditions. However, growth momentum remains weak in the near term, as social distancing measures and the pandemic remain a drag on tourism and other contact-intensive services. The Baseline may be a conservative scenario, as the economic rebound in the first half of 2021 has been stronger than that projected in the April 2021 WEO.\n  Adverse Scenario 1: This assumes additional waves of COVID infections, which extend into late 2021 while conditions remain supportive in global financial markets. GDP growth remains sluggish in 2022, fueling unemployment and hitting household income. Firms operating in tourism-related services, particularly SMEs are severely hit, and many become insolvent. The effects of the pandemic on economic activity are long-lasting and hurt potential growth.\n  Adverse scenario 2: This scenario is assumed to be more severe and less likely than the first one, but assumes an adverse external shock. It is characterized by a widening of the sovereign spread, capital outflows including from banks non-resident deposits and sharp currency depreciation, which lead to adverse feedback effects on economic activity."
-    ],
-    [
-        "Domain",
-        "Sensitivity analysis",
-        "Sensitivity analyses to complement the scenario-based analysis. The risks comprise:\n  Credit risk from reclassification of loans between risk categories\n  FX-induced credit risk\n  Credit risk from large exposures (10 largest for each bank)\n  Interest rate risk in the banking book\n  Sovereign debt holdings"
-    ],
-    [
-        "4.Risks and Buffers",
-        "Risks assessed",
-        "Credit loss from banks loan portfolios and sovereign exposures, including off- balance sheet credit exposures.\n  Interest rate risk in the banking book, compression of interest margins."
-    ],
-    [
-        "4.Risks and Buffers",
-        "Buffers",
-        "Existing loan loss provisions and capital buffers.\n  Internal capital generation from net income after taxes.\n  No new capital injections."
-    ],
-    [
-        "5. Regulatory Standards",
-        "Regulatory Standards",
-        "National regulatory framework.\n  Basel III approach."
-    ],
-    [
-        "6. Reporting Format for Results",
-        "Output presentation",
-        "System-wide capital shortfalls from macroprudential perspective.\n  Number of banks and percentage of banking system assets by CAR intervals."
-    ],
-    [
-        "Domain",
-        "",
-        "Assumptions"
-    ],
-    [
-        "Domain",
-        "",
-        "Top-down by FSAP Team"
-    ],
-    [
-        "Domain",
-        "",
-        "Impact of shocks on NPLs.\n  Impact of shocks on key P&L components."
-    ],
-    [
-        "Banking Sector: Liquidity Stress Test",
-        "",
-        ""
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Institutions included",
-        "All fifteen banks."
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Market share",
-        "About 95 percent of total financial system assets."
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Data and Starting position",
-        "Baseline date: December 31, 2020 (possibly updated at a later date).\n  Data Source: Daily supervisory returns on bank liquid assets and liabilities, and projected cash flows at various horizons. Liabilities classified by liquidity, currency, size, and residency of the counterparts."
-    ],
-    [
-        "2. Methodology",
-        "Overall framework",
-        "Cash-flow cum counterbalancing capacity-based liquidity stress test\n  Basel III-LCR ratio.\n  Separate results by local and foreign currency."
-    ],
-    [
-        "3. Type of analyses",
-        "Scenario analysis",
-        "Four scenarios combining two shocks to liabilities and two assumptions on asset haircuts. Shock calibration based on historic data."
-    ],
-    [
-        "4. Risks and Buffers",
-        "Risks",
-        "Cash-flow based LST. Adverse shock to deposits and other liquid liabilities combined with reduction of asset liquidity"
-    ],
-    [
-        "4. Risks and Buffers",
-        "Buffers",
-        "Cash-flow based LST: Capacity of banks to generate liquidity from assets under stress (counterbalancing capacity) and central bank facilities\n  LCR regulatory buffers"
-    ],
-    [
-        "5. Regulatory Standards",
-        "Regulatory Standards",
-        "National regulatory framework: The LCR and NFSR. Hurdle rates of 75 percent for LCR in local currency and 100 percent for LCR in FX."
-    ],
-    [
-        "6. Reporting Format for Results",
-        "Output presentation",
-        "Distribution of banks and total assets by intervals of LCR after shock."
-    ],
-    [
-        "Corporate Stress Test",
-        "",
-        ""
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Entities included",
-        "About 100 large corporations on a solo basis, representing about 49 corporations at the consolidated level. The sampled firms have total assets equivalent to about 25 percent of GDP on a solo basis, and 28 percent of GDP on a consolidated basis.\n  The sample targets the ten largest borrowers of each bank."
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Data",
-        "Publicly available financial data on corporations is limited due to the shallow capital market. The corporate stress test uses data from bank files, comprising the latest available balance sheet and income statement accounts of the sampled corporations on a solo and a consolidated basis."
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Time Horizon",
-        "Data are unbalanced, during 2018-20."
-    ],
-    [
-        "Domain",
-        "",
-        "Assumptions"
-    ],
-    [
-        "Domain",
-        "",
-        "Top-down by FSAP Team"
-    ],
-    [
-        "2. Methodology",
-        "Overall framework",
-        "Stress test based on the Interest Coverage Ratio (ICR) and EBITD conditional on the distressed scenarios applied to the bank stress tests.\n  Individual firms are classified by their economic activities and subject to the adverse scenarios used in the bank stress tests. The shocks include an increase in interests on short-term debt and maturing long-term debt, and a drop in EBITD proportional to the evolution of value added in the sector where the firm operates.\n  Individual firms are mapped to their corporate groups and to their lender banks, and the results used to inform the bank stress tests of credit risk."
-    ],
-    [
-        "2. Methodology",
-        "Scenarios",
-        "The analysis applies the same baseline and distressed scenarios used in the bank stress tests. The corporate stress test applies the projections of sectoral value added and the shocks to sovereign spreads to come up with a set of firm-specific shocks consistent with the bank stress tests."
-    ],
-    [
-        "3. Risks and Buffers",
-        "Risks",
-        "Insolvency risk."
-    ],
-    [
-        "3. Risks and Buffers",
-        "Buffers:",
-        "EBITD and share of long-term debt in total debt."
-    ],
-    [
-        "4. Reporting Format for Results",
-        "Output presentation",
-        "Total assets and number of firms with ICR below 100 percent by economic sectors, and lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with ICR below 100 percent, by lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with negative EBITD or negative equity, by lender banks, under baseline and distressed scenarios."
-    ],
-    [
-        "Financial System: Interconnectedness Analysis",
-        "",
-        ""
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Institutions Included",
-        "Interbank network: Largest all fifteen 15 banks."
-    ],
-    [
-        "1. Institutional Perimeter",
-        "Data",
-        "Data source: Supervisory data on interbank exposures.\n  Interbank positions as of December 2020."
-    ],
-    [
-        "2. Methodology",
-        "Overall framework",
-        "Interbank: Balance sheet-based interbank model by Espinosa-Vega and Sol (2010).\n  Common exposure: balance sheet approach."
-    ],
-    [
-        "3. Risks and Buffers",
-        "Risks",
-        "Credit and funding losses related to interbank exposures.\n  Default of large common borrowers in the banking system."
-    ],
-    [
-        "3. Risks and Buffers",
-        "Buffers",
-        "Interbank network: banks own capital and liquidity buffers."
-    ],
-    [
-        "4. Reporting Format for Results",
-        "Output presentation",
-        "Interbank network: a network chart, index of vulnerabilities.\n  Common exposure: system-wide capital shortfalls.\n  Evolution and direction of spillovers."
-    ]
+    {
+        "Appendix II. Stress Testing Matrix (STeM)": {
+            "": {
+                "": {}
+            }
+        },
+        "Domain": {
+            "": {
+                "Assumptions": {}
+            }
+        },
+        "": {
+            "Top-down by FSAP Team": {}
+        },
+        "Banking Sector: Solvency Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "1. Institutional Perimeter": {
+            "Institutions included": {
+                "All banks (fifteen institutions with total assets equivalent to about 100 percent of GDP) including the three DSIBs.": {}
+            }
+        },
+        "Market share": {
+            "About 95 percent of total financial system assets.": {}
+        },
+        "Data source and starting date": {
+            "Data Sources: Supervisory returns, special requests to banks and publicly available data.\n  Baseline date: Balance sheets as of December 2020. Credit and funding risk based on historical data back to 2010.\n  Scope of Consolidation: Consolidated bank balance sheets.": {}
+        },
+        "2. Methodology": {
+            "Overall framework": {
+                "Credit risk assessed using two methodologies to compensate for model and parameter uncertainty as amplified by the idiosyncratic nature of the COVID pandemic. These two methods will comprise: an IMF Balance sheet-based model and a static credit VaR using Monte Carlo simulation to compute expected and tail losses. These will be complemented with sensitivity analysis (see below).\n  Given the high dollarization of bank credit and the asymmetric impact of the pandemic across economic activities, the credit portfolio will be split by credit types (retail, mortgages, SMEs and commercial), currency, and main activity of the corporate borrowers. In addition, concentration risk will be assessed with a case-by- case analysis of the financial statements of the largest ten borrowers for each bank, using the results of a corporate stress test.": {}
+            }
+        },
+        "Satellite models for macro- financial linkages": {
+            "Satellite models based on previous IMF TA linking PDs, NPL ratios, and provisioning levels to a set of macroeconomic variables comprising GDP growth, FX rate depreciation, interest spreads, and other macro variables.\n  Net interest income based on dynamic panel econometrics.": {}
+        },
+        "Stress test horizon": {
+            "3-years (2020-2023).": {}
+        },
+        "Assumptions": {
+            "Static balance sheet assumption: (i) total assets and credit growth evolve in line with nominal GDP growth; (ii) the composition of the asset side of the balance sheet remains constant throughout the stress test horizon; (iii) banks build capital through retained earnings; and (iv) short-term liabilities adjust as needed to close the accounting identity\n  Dividend distribution allowed if net income after taxes are positive and if banks are adequately capitalized. The dividend payout ratio is assumed to be 50 percent.": {}
+        },
+        "3. Type of analyses": {
+            "Scenario analysis": {
+                "Scenario-based stress tests focus on the impact of the macroeconomic environment on FX-induced credit risk, COVID-related credit losses, and concentration risk.\n  Given the domestic orientation of banks, the scenarios focus on domestic macro- financial variables (e.g., GDP, inflation, interest rates, unemployment rate, exchange rate, and property prices).": {}
+            }
+        },
+        "Top-down by FSAP Team": {},
+        "To account for the differential impact of COVID across businesses, the scenarios will simulate the evolution of value added by economic sectors. These sectors are grouped in three categories to differentiate their sensitivity to the pandemic.\n  Three scenarios are simulated at the yearly frequency, using NBG and RES models:\n  Baseline scenario using the April 2021 WEO projections. The economy starts to recover during mid-2021 from the April 2020 slump, and is supported by benign external and domestic financial conditions. However, growth momentum remains weak in the near term, as social distancing measures and the pandemic remain a drag on tourism and other contact-intensive services. The Baseline may be a conservative scenario, as the economic rebound in the first half of 2021 has been stronger than that projected in the April 2021 WEO.\n  Adverse Scenario 1: This assumes additional waves of COVID infections, which extend into late 2021 while conditions remain supportive in global financial markets. GDP growth remains sluggish in 2022, fueling unemployment and hitting household income. Firms operating in tourism-related services, particularly SMEs are severely hit, and many become insolvent. The effects of the pandemic on economic activity are long-lasting and hurt potential growth.\n  Adverse scenario 2: This scenario is assumed to be more severe and less likely than the first one, but assumes an adverse external shock. It is characterized by a widening of the sovereign spread, capital outflows including from banks non-resident deposits and sharp currency depreciation, which lead to adverse feedback effects on economic activity.": {},
+        "Sensitivity analysis": {
+            "Sensitivity analyses to complement the scenario-based analysis. The risks comprise:\n  Credit risk from reclassification of loans between risk categories\n  FX-induced credit risk\n  Credit risk from large exposures (10 largest for each bank)\n  Interest rate risk in the banking book\n  Sovereign debt holdings": {}
+        },
+        "4.Risks and Buffers": {
+            "Risks assessed": {
+                "Credit loss from banks loan portfolios and sovereign exposures, including off- balance sheet credit exposures.\n  Interest rate risk in the banking book, compression of interest margins.": {}
+            }
+        },
+        "Buffers": {
+            "Existing loan loss provisions and capital buffers.\n  Internal capital generation from net income after taxes.\n  No new capital injections.": {}
+        },
+        "5. Regulatory Standards": {
+            "Regulatory Standards": {
+                "National regulatory framework.\n  Basel III approach.": {}
+            }
+        },
+        "6. Reporting Format for Results": {
+            "Output presentation": {
+                "System-wide capital shortfalls from macroprudential perspective.\n  Number of banks and percentage of banking system assets by CAR intervals.": {}
+            }
+        },
+        "Impact of shocks on NPLs.\n  Impact of shocks on key P&L components.": {},
+        "Banking Sector: Liquidity Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions included": {
+            "All fifteen banks.": {}
+        },
+        "About 95 percent of total financial system assets.": {},
+        "Data and Starting position": {
+            "Baseline date: December 31, 2020 (possibly updated at a later date).\n  Data Source: Daily supervisory returns on bank liquid assets and liabilities, and projected cash flows at various horizons. Liabilities classified by liquidity, currency, size, and residency of the counterparts.": {}
+        },
+        "Overall framework": {
+            "Cash-flow cum counterbalancing capacity-based liquidity stress test\n  Basel III-LCR ratio.\n  Separate results by local and foreign currency.": {}
+        },
+        "Scenario analysis": {
+            "Four scenarios combining two shocks to liabilities and two assumptions on asset haircuts. Shock calibration based on historic data.": {}
+        },
+        "4. Risks and Buffers": {
+            "Risks": {
+                "Cash-flow based LST. Adverse shock to deposits and other liquid liabilities combined with reduction of asset liquidity": {}
+            }
+        },
+        "Cash-flow based LST: Capacity of banks to generate liquidity from assets under stress (counterbalancing capacity) and central bank facilities\n  LCR regulatory buffers": {},
+        "Regulatory Standards": {
+            "National regulatory framework: The LCR and NFSR. Hurdle rates of 75 percent for LCR in local currency and 100 percent for LCR in FX.": {}
+        },
+        "Output presentation": {
+            "Distribution of banks and total assets by intervals of LCR after shock.": {}
+        },
+        "Corporate Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Entities included": {
+            "About 100 large corporations on a solo basis, representing about 49 corporations at the consolidated level. The sampled firms have total assets equivalent to about 25 percent of GDP on a solo basis, and 28 percent of GDP on a consolidated basis.\n  The sample targets the ten largest borrowers of each bank.": {}
+        },
+        "Data": {
+            "Publicly available financial data on corporations is limited due to the shallow capital market. The corporate stress test uses data from bank files, comprising the latest available balance sheet and income statement accounts of the sampled corporations on a solo and a consolidated basis.": {}
+        },
+        "Time Horizon": {
+            "Data are unbalanced, during 2018-20.": {}
+        },
+        "Stress test based on the Interest Coverage Ratio (ICR) and EBITD conditional on the distressed scenarios applied to the bank stress tests.\n  Individual firms are classified by their economic activities and subject to the adverse scenarios used in the bank stress tests. The shocks include an increase in interests on short-term debt and maturing long-term debt, and a drop in EBITD proportional to the evolution of value added in the sector where the firm operates.\n  Individual firms are mapped to their corporate groups and to their lender banks, and the results used to inform the bank stress tests of credit risk.": {},
+        "Scenarios": {
+            "The analysis applies the same baseline and distressed scenarios used in the bank stress tests. The corporate stress test applies the projections of sectoral value added and the shocks to sovereign spreads to come up with a set of firm-specific shocks consistent with the bank stress tests.": {}
+        },
+        "3. Risks and Buffers": {
+            "Risks": {
+                "Insolvency risk.": {}
+            }
+        },
+        "Buffers:": {
+            "EBITD and share of long-term debt in total debt.": {}
+        },
+        "4. Reporting Format for Results": {
+            "Output presentation": {
+                "Total assets and number of firms with ICR below 100 percent by economic sectors, and lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with ICR below 100 percent, by lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with negative EBITD or negative equity, by lender banks, under baseline and distressed scenarios.": {}
+            }
+        },
+        "Financial System: Interconnectedness Analysis": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions Included": {
+            "Interbank network: Largest all fifteen 15 banks.": {}
+        },
+        "Data source: Supervisory data on interbank exposures.\n  Interbank positions as of December 2020.": {},
+        "Interbank: Balance sheet-based interbank model by Espinosa-Vega and Sol (2010).\n  Common exposure: balance sheet approach.": {},
+        "Risks": {
+            "Credit and funding losses related to interbank exposures.\n  Default of large common borrowers in the banking system.": {}
+        },
+        "Interbank network: banks own capital and liquidity buffers.": {},
+        "Interbank network: a network chart, index of vulnerabilities.\n  Common exposure: system-wide capital shortfalls.\n  Evolution and direction of spillovers.": {}
+    },
+    {
+        "Appendix II. Stress Testing Matrix (STeM)": {
+            "": {
+                "": {}
+            }
+        },
+        "Domain": {
+            "": {
+                "Assumptions": {}
+            }
+        },
+        "": {
+            "Top-down by FSAP Team": {}
+        },
+        "Banking Sector: Solvency Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "1. Institutional Perimeter": {
+            "Institutions included": {
+                "All banks (fifteen institutions with total assets equivalent to about 100 percent of GDP) including the three DSIBs.": {}
+            }
+        },
+        "Market share": {
+            "About 95 percent of total financial system assets.": {}
+        },
+        "Data source and starting date": {
+            "Data Sources: Supervisory returns, special requests to banks and publicly available data.\n  Baseline date: Balance sheets as of December 2020. Credit and funding risk based on historical data back to 2010.\n  Scope of Consolidation: Consolidated bank balance sheets.": {}
+        },
+        "2. Methodology": {
+            "Overall framework": {
+                "Credit risk assessed using two methodologies to compensate for model and parameter uncertainty as amplified by the idiosyncratic nature of the COVID pandemic. These two methods will comprise: an IMF Balance sheet-based model and a static credit VaR using Monte Carlo simulation to compute expected and tail losses. These will be complemented with sensitivity analysis (see below).\n  Given the high dollarization of bank credit and the asymmetric impact of the pandemic across economic activities, the credit portfolio will be split by credit types (retail, mortgages, SMEs and commercial), currency, and main activity of the corporate borrowers. In addition, concentration risk will be assessed with a case-by- case analysis of the financial statements of the largest ten borrowers for each bank, using the results of a corporate stress test.": {}
+            }
+        },
+        "Satellite models for macro- financial linkages": {
+            "Satellite models based on previous IMF TA linking PDs, NPL ratios, and provisioning levels to a set of macroeconomic variables comprising GDP growth, FX rate depreciation, interest spreads, and other macro variables.\n  Net interest income based on dynamic panel econometrics.": {}
+        },
+        "Stress test horizon": {
+            "3-years (2020-2023).": {}
+        },
+        "Assumptions": {
+            "Static balance sheet assumption: (i) total assets and credit growth evolve in line with nominal GDP growth; (ii) the composition of the asset side of the balance sheet remains constant throughout the stress test horizon; (iii) banks build capital through retained earnings; and (iv) short-term liabilities adjust as needed to close the accounting identity\n  Dividend distribution allowed if net income after taxes are positive and if banks are adequately capitalized. The dividend payout ratio is assumed to be 50 percent.": {}
+        },
+        "3. Type of analyses": {
+            "Scenario analysis": {
+                "Scenario-based stress tests focus on the impact of the macroeconomic environment on FX-induced credit risk, COVID-related credit losses, and concentration risk.\n  Given the domestic orientation of banks, the scenarios focus on domestic macro- financial variables (e.g., GDP, inflation, interest rates, unemployment rate, exchange rate, and property prices).": {}
+            }
+        },
+        "Top-down by FSAP Team": {},
+        "To account for the differential impact of COVID across businesses, the scenarios will simulate the evolution of value added by economic sectors. These sectors are grouped in three categories to differentiate their sensitivity to the pandemic.\n  Three scenarios are simulated at the yearly frequency, using NBG and RES models:\n  Baseline scenario using the April 2021 WEO projections. The economy starts to recover during mid-2021 from the April 2020 slump, and is supported by benign external and domestic financial conditions. However, growth momentum remains weak in the near term, as social distancing measures and the pandemic remain a drag on tourism and other contact-intensive services. The Baseline may be a conservative scenario, as the economic rebound in the first half of 2021 has been stronger than that projected in the April 2021 WEO.\n  Adverse Scenario 1: This assumes additional waves of COVID infections, which extend into late 2021 while conditions remain supportive in global financial markets. GDP growth remains sluggish in 2022, fueling unemployment and hitting household income. Firms operating in tourism-related services, particularly SMEs are severely hit, and many become insolvent. The effects of the pandemic on economic activity are long-lasting and hurt potential growth.\n  Adverse scenario 2: This scenario is assumed to be more severe and less likely than the first one, but assumes an adverse external shock. It is characterized by a widening of the sovereign spread, capital outflows including from banks non-resident deposits and sharp currency depreciation, which lead to adverse feedback effects on economic activity.": {},
+        "Sensitivity analysis": {
+            "Sensitivity analyses to complement the scenario-based analysis. The risks comprise:\n  Credit risk from reclassification of loans between risk categories\n  FX-induced credit risk\n  Credit risk from large exposures (10 largest for each bank)\n  Interest rate risk in the banking book\n  Sovereign debt holdings": {}
+        },
+        "4.Risks and Buffers": {
+            "Risks assessed": {
+                "Credit loss from banks loan portfolios and sovereign exposures, including off- balance sheet credit exposures.\n  Interest rate risk in the banking book, compression of interest margins.": {}
+            }
+        },
+        "Buffers": {
+            "Existing loan loss provisions and capital buffers.\n  Internal capital generation from net income after taxes.\n  No new capital injections.": {}
+        },
+        "5. Regulatory Standards": {
+            "Regulatory Standards": {
+                "National regulatory framework.\n  Basel III approach.": {}
+            }
+        },
+        "6. Reporting Format for Results": {
+            "Output presentation": {
+                "System-wide capital shortfalls from macroprudential perspective.\n  Number of banks and percentage of banking system assets by CAR intervals.": {}
+            }
+        },
+        "Impact of shocks on NPLs.\n  Impact of shocks on key P&L components.": {},
+        "Banking Sector: Liquidity Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions included": {
+            "All fifteen banks.": {}
+        },
+        "About 95 percent of total financial system assets.": {},
+        "Data and Starting position": {
+            "Baseline date: December 31, 2020 (possibly updated at a later date).\n  Data Source: Daily supervisory returns on bank liquid assets and liabilities, and projected cash flows at various horizons. Liabilities classified by liquidity, currency, size, and residency of the counterparts.": {}
+        },
+        "Overall framework": {
+            "Cash-flow cum counterbalancing capacity-based liquidity stress test\n  Basel III-LCR ratio.\n  Separate results by local and foreign currency.": {}
+        },
+        "Scenario analysis": {
+            "Four scenarios combining two shocks to liabilities and two assumptions on asset haircuts. Shock calibration based on historic data.": {}
+        },
+        "4. Risks and Buffers": {
+            "Risks": {
+                "Cash-flow based LST. Adverse shock to deposits and other liquid liabilities combined with reduction of asset liquidity": {}
+            }
+        },
+        "Cash-flow based LST: Capacity of banks to generate liquidity from assets under stress (counterbalancing capacity) and central bank facilities\n  LCR regulatory buffers": {},
+        "Regulatory Standards": {
+            "National regulatory framework: The LCR and NFSR. Hurdle rates of 75 percent for LCR in local currency and 100 percent for LCR in FX.": {}
+        },
+        "Output presentation": {
+            "Distribution of banks and total assets by intervals of LCR after shock.": {}
+        },
+        "Corporate Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Entities included": {
+            "About 100 large corporations on a solo basis, representing about 49 corporations at the consolidated level. The sampled firms have total assets equivalent to about 25 percent of GDP on a solo basis, and 28 percent of GDP on a consolidated basis.\n  The sample targets the ten largest borrowers of each bank.": {}
+        },
+        "Data": {
+            "Publicly available financial data on corporations is limited due to the shallow capital market. The corporate stress test uses data from bank files, comprising the latest available balance sheet and income statement accounts of the sampled corporations on a solo and a consolidated basis.": {}
+        },
+        "Time Horizon": {
+            "Data are unbalanced, during 2018-20.": {}
+        },
+        "Stress test based on the Interest Coverage Ratio (ICR) and EBITD conditional on the distressed scenarios applied to the bank stress tests.\n  Individual firms are classified by their economic activities and subject to the adverse scenarios used in the bank stress tests. The shocks include an increase in interests on short-term debt and maturing long-term debt, and a drop in EBITD proportional to the evolution of value added in the sector where the firm operates.\n  Individual firms are mapped to their corporate groups and to their lender banks, and the results used to inform the bank stress tests of credit risk.": {},
+        "Scenarios": {
+            "The analysis applies the same baseline and distressed scenarios used in the bank stress tests. The corporate stress test applies the projections of sectoral value added and the shocks to sovereign spreads to come up with a set of firm-specific shocks consistent with the bank stress tests.": {}
+        },
+        "3. Risks and Buffers": {
+            "Risks": {
+                "Insolvency risk.": {}
+            }
+        },
+        "Buffers:": {
+            "EBITD and share of long-term debt in total debt.": {}
+        },
+        "4. Reporting Format for Results": {
+            "Output presentation": {
+                "Total assets and number of firms with ICR below 100 percent by economic sectors, and lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with ICR below 100 percent, by lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with negative EBITD or negative equity, by lender banks, under baseline and distressed scenarios.": {}
+            }
+        },
+        "Financial System: Interconnectedness Analysis": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions Included": {
+            "Interbank network: Largest all fifteen 15 banks.": {}
+        },
+        "Data source: Supervisory data on interbank exposures.\n  Interbank positions as of December 2020.": {},
+        "Interbank: Balance sheet-based interbank model by Espinosa-Vega and Sol (2010).\n  Common exposure: balance sheet approach.": {},
+        "Risks": {
+            "Credit and funding losses related to interbank exposures.\n  Default of large common borrowers in the banking system.": {}
+        },
+        "Interbank network: banks own capital and liquidity buffers.": {},
+        "Interbank network: a network chart, index of vulnerabilities.\n  Common exposure: system-wide capital shortfalls.\n  Evolution and direction of spillovers.": {}
+    },
+    {
+        "Appendix II. Stress Testing Matrix (STeM)": {
+            "": {
+                "": {}
+            }
+        },
+        "Domain": {
+            "": {
+                "Assumptions": {}
+            }
+        },
+        "": {
+            "Top-down by FSAP Team": {}
+        },
+        "Banking Sector: Solvency Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "1. Institutional Perimeter": {
+            "Institutions included": {
+                "All banks (fifteen institutions with total assets equivalent to about 100 percent of GDP) including the three DSIBs.": {}
+            }
+        },
+        "Market share": {
+            "About 95 percent of total financial system assets.": {}
+        },
+        "Data source and starting date": {
+            "Data Sources: Supervisory returns, special requests to banks and publicly available data.\n  Baseline date: Balance sheets as of December 2020. Credit and funding risk based on historical data back to 2010.\n  Scope of Consolidation: Consolidated bank balance sheets.": {}
+        },
+        "2. Methodology": {
+            "Overall framework": {
+                "Credit risk assessed using two methodologies to compensate for model and parameter uncertainty as amplified by the idiosyncratic nature of the COVID pandemic. These two methods will comprise: an IMF Balance sheet-based model and a static credit VaR using Monte Carlo simulation to compute expected and tail losses. These will be complemented with sensitivity analysis (see below).\n  Given the high dollarization of bank credit and the asymmetric impact of the pandemic across economic activities, the credit portfolio will be split by credit types (retail, mortgages, SMEs and commercial), currency, and main activity of the corporate borrowers. In addition, concentration risk will be assessed with a case-by- case analysis of the financial statements of the largest ten borrowers for each bank, using the results of a corporate stress test.": {}
+            }
+        },
+        "Satellite models for macro- financial linkages": {
+            "Satellite models based on previous IMF TA linking PDs, NPL ratios, and provisioning levels to a set of macroeconomic variables comprising GDP growth, FX rate depreciation, interest spreads, and other macro variables.\n  Net interest income based on dynamic panel econometrics.": {}
+        },
+        "Stress test horizon": {
+            "3-years (2020-2023).": {}
+        },
+        "Assumptions": {
+            "Static balance sheet assumption: (i) total assets and credit growth evolve in line with nominal GDP growth; (ii) the composition of the asset side of the balance sheet remains constant throughout the stress test horizon; (iii) banks build capital through retained earnings; and (iv) short-term liabilities adjust as needed to close the accounting identity\n  Dividend distribution allowed if net income after taxes are positive and if banks are adequately capitalized. The dividend payout ratio is assumed to be 50 percent.": {}
+        },
+        "3. Type of analyses": {
+            "Scenario analysis": {
+                "Scenario-based stress tests focus on the impact of the macroeconomic environment on FX-induced credit risk, COVID-related credit losses, and concentration risk.\n  Given the domestic orientation of banks, the scenarios focus on domestic macro- financial variables (e.g., GDP, inflation, interest rates, unemployment rate, exchange rate, and property prices).": {}
+            }
+        },
+        "Top-down by FSAP Team": {},
+        "To account for the differential impact of COVID across businesses, the scenarios will simulate the evolution of value added by economic sectors. These sectors are grouped in three categories to differentiate their sensitivity to the pandemic.\n  Three scenarios are simulated at the yearly frequency, using NBG and RES models:\n  Baseline scenario using the April 2021 WEO projections. The economy starts to recover during mid-2021 from the April 2020 slump, and is supported by benign external and domestic financial conditions. However, growth momentum remains weak in the near term, as social distancing measures and the pandemic remain a drag on tourism and other contact-intensive services. The Baseline may be a conservative scenario, as the economic rebound in the first half of 2021 has been stronger than that projected in the April 2021 WEO.\n  Adverse Scenario 1: This assumes additional waves of COVID infections, which extend into late 2021 while conditions remain supportive in global financial markets. GDP growth remains sluggish in 2022, fueling unemployment and hitting household income. Firms operating in tourism-related services, particularly SMEs are severely hit, and many become insolvent. The effects of the pandemic on economic activity are long-lasting and hurt potential growth.\n  Adverse scenario 2: This scenario is assumed to be more severe and less likely than the first one, but assumes an adverse external shock. It is characterized by a widening of the sovereign spread, capital outflows including from banks non-resident deposits and sharp currency depreciation, which lead to adverse feedback effects on economic activity.": {},
+        "Sensitivity analysis": {
+            "Sensitivity analyses to complement the scenario-based analysis. The risks comprise:\n  Credit risk from reclassification of loans between risk categories\n  FX-induced credit risk\n  Credit risk from large exposures (10 largest for each bank)\n  Interest rate risk in the banking book\n  Sovereign debt holdings": {}
+        },
+        "4.Risks and Buffers": {
+            "Risks assessed": {
+                "Credit loss from banks loan portfolios and sovereign exposures, including off- balance sheet credit exposures.\n  Interest rate risk in the banking book, compression of interest margins.": {}
+            }
+        },
+        "Buffers": {
+            "Existing loan loss provisions and capital buffers.\n  Internal capital generation from net income after taxes.\n  No new capital injections.": {}
+        },
+        "5. Regulatory Standards": {
+            "Regulatory Standards": {
+                "National regulatory framework.\n  Basel III approach.": {}
+            }
+        },
+        "6. Reporting Format for Results": {
+            "Output presentation": {
+                "System-wide capital shortfalls from macroprudential perspective.\n  Number of banks and percentage of banking system assets by CAR intervals.": {}
+            }
+        },
+        "Impact of shocks on NPLs.\n  Impact of shocks on key P&L components.": {},
+        "Banking Sector: Liquidity Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions included": {
+            "All fifteen banks.": {}
+        },
+        "About 95 percent of total financial system assets.": {},
+        "Data and Starting position": {
+            "Baseline date: December 31, 2020 (possibly updated at a later date).\n  Data Source: Daily supervisory returns on bank liquid assets and liabilities, and projected cash flows at various horizons. Liabilities classified by liquidity, currency, size, and residency of the counterparts.": {}
+        },
+        "Overall framework": {
+            "Cash-flow cum counterbalancing capacity-based liquidity stress test\n  Basel III-LCR ratio.\n  Separate results by local and foreign currency.": {}
+        },
+        "Scenario analysis": {
+            "Four scenarios combining two shocks to liabilities and two assumptions on asset haircuts. Shock calibration based on historic data.": {}
+        },
+        "4. Risks and Buffers": {
+            "Risks": {
+                "Cash-flow based LST. Adverse shock to deposits and other liquid liabilities combined with reduction of asset liquidity": {}
+            }
+        },
+        "Cash-flow based LST: Capacity of banks to generate liquidity from assets under stress (counterbalancing capacity) and central bank facilities\n  LCR regulatory buffers": {},
+        "Regulatory Standards": {
+            "National regulatory framework: The LCR and NFSR. Hurdle rates of 75 percent for LCR in local currency and 100 percent for LCR in FX.": {}
+        },
+        "Output presentation": {
+            "Distribution of banks and total assets by intervals of LCR after shock.": {}
+        },
+        "Corporate Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Entities included": {
+            "About 100 large corporations on a solo basis, representing about 49 corporations at the consolidated level. The sampled firms have total assets equivalent to about 25 percent of GDP on a solo basis, and 28 percent of GDP on a consolidated basis.\n  The sample targets the ten largest borrowers of each bank.": {}
+        },
+        "Data": {
+            "Publicly available financial data on corporations is limited due to the shallow capital market. The corporate stress test uses data from bank files, comprising the latest available balance sheet and income statement accounts of the sampled corporations on a solo and a consolidated basis.": {}
+        },
+        "Time Horizon": {
+            "Data are unbalanced, during 2018-20.": {}
+        },
+        "Stress test based on the Interest Coverage Ratio (ICR) and EBITD conditional on the distressed scenarios applied to the bank stress tests.\n  Individual firms are classified by their economic activities and subject to the adverse scenarios used in the bank stress tests. The shocks include an increase in interests on short-term debt and maturing long-term debt, and a drop in EBITD proportional to the evolution of value added in the sector where the firm operates.\n  Individual firms are mapped to their corporate groups and to their lender banks, and the results used to inform the bank stress tests of credit risk.": {},
+        "Scenarios": {
+            "The analysis applies the same baseline and distressed scenarios used in the bank stress tests. The corporate stress test applies the projections of sectoral value added and the shocks to sovereign spreads to come up with a set of firm-specific shocks consistent with the bank stress tests.": {}
+        },
+        "3. Risks and Buffers": {
+            "Risks": {
+                "Insolvency risk.": {}
+            }
+        },
+        "Buffers:": {
+            "EBITD and share of long-term debt in total debt.": {}
+        },
+        "4. Reporting Format for Results": {
+            "Output presentation": {
+                "Total assets and number of firms with ICR below 100 percent by economic sectors, and lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with ICR below 100 percent, by lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with negative EBITD or negative equity, by lender banks, under baseline and distressed scenarios.": {}
+            }
+        },
+        "Financial System: Interconnectedness Analysis": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions Included": {
+            "Interbank network: Largest all fifteen 15 banks.": {}
+        },
+        "Data source: Supervisory data on interbank exposures.\n  Interbank positions as of December 2020.": {},
+        "Interbank: Balance sheet-based interbank model by Espinosa-Vega and Sol (2010).\n  Common exposure: balance sheet approach.": {},
+        "Risks": {
+            "Credit and funding losses related to interbank exposures.\n  Default of large common borrowers in the banking system.": {}
+        },
+        "Interbank network: banks own capital and liquidity buffers.": {},
+        "Interbank network: a network chart, index of vulnerabilities.\n  Common exposure: system-wide capital shortfalls.\n  Evolution and direction of spillovers.": {}
+    },
+    {
+        "Appendix II. Stress Testing Matrix (STeM)": {
+            "": {
+                "": {}
+            }
+        },
+        "Domain": {
+            "": {
+                "Assumptions": {}
+            }
+        },
+        "": {
+            "Top-down by FSAP Team": {}
+        },
+        "Banking Sector: Solvency Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "1. Institutional Perimeter": {
+            "Institutions included": {
+                "All banks (fifteen institutions with total assets equivalent to about 100 percent of GDP) including the three DSIBs.": {}
+            }
+        },
+        "Market share": {
+            "About 95 percent of total financial system assets.": {}
+        },
+        "Data source and starting date": {
+            "Data Sources: Supervisory returns, special requests to banks and publicly available data.\n  Baseline date: Balance sheets as of December 2020. Credit and funding risk based on historical data back to 2010.\n  Scope of Consolidation: Consolidated bank balance sheets.": {}
+        },
+        "2. Methodology": {
+            "Overall framework": {
+                "Credit risk assessed using two methodologies to compensate for model and parameter uncertainty as amplified by the idiosyncratic nature of the COVID pandemic. These two methods will comprise: an IMF Balance sheet-based model and a static credit VaR using Monte Carlo simulation to compute expected and tail losses. These will be complemented with sensitivity analysis (see below).\n  Given the high dollarization of bank credit and the asymmetric impact of the pandemic across economic activities, the credit portfolio will be split by credit types (retail, mortgages, SMEs and commercial), currency, and main activity of the corporate borrowers. In addition, concentration risk will be assessed with a case-by- case analysis of the financial statements of the largest ten borrowers for each bank, using the results of a corporate stress test.": {}
+            }
+        },
+        "Satellite models for macro- financial linkages": {
+            "Satellite models based on previous IMF TA linking PDs, NPL ratios, and provisioning levels to a set of macroeconomic variables comprising GDP growth, FX rate depreciation, interest spreads, and other macro variables.\n  Net interest income based on dynamic panel econometrics.": {}
+        },
+        "Stress test horizon": {
+            "3-years (2020-2023).": {}
+        },
+        "Assumptions": {
+            "Static balance sheet assumption: (i) total assets and credit growth evolve in line with nominal GDP growth; (ii) the composition of the asset side of the balance sheet remains constant throughout the stress test horizon; (iii) banks build capital through retained earnings; and (iv) short-term liabilities adjust as needed to close the accounting identity\n  Dividend distribution allowed if net income after taxes are positive and if banks are adequately capitalized. The dividend payout ratio is assumed to be 50 percent.": {}
+        },
+        "3. Type of analyses": {
+            "Scenario analysis": {
+                "Scenario-based stress tests focus on the impact of the macroeconomic environment on FX-induced credit risk, COVID-related credit losses, and concentration risk.\n  Given the domestic orientation of banks, the scenarios focus on domestic macro- financial variables (e.g., GDP, inflation, interest rates, unemployment rate, exchange rate, and property prices).": {}
+            }
+        },
+        "Top-down by FSAP Team": {},
+        "To account for the differential impact of COVID across businesses, the scenarios will simulate the evolution of value added by economic sectors. These sectors are grouped in three categories to differentiate their sensitivity to the pandemic.\n  Three scenarios are simulated at the yearly frequency, using NBG and RES models:\n  Baseline scenario using the April 2021 WEO projections. The economy starts to recover during mid-2021 from the April 2020 slump, and is supported by benign external and domestic financial conditions. However, growth momentum remains weak in the near term, as social distancing measures and the pandemic remain a drag on tourism and other contact-intensive services. The Baseline may be a conservative scenario, as the economic rebound in the first half of 2021 has been stronger than that projected in the April 2021 WEO.\n  Adverse Scenario 1: This assumes additional waves of COVID infections, which extend into late 2021 while conditions remain supportive in global financial markets. GDP growth remains sluggish in 2022, fueling unemployment and hitting household income. Firms operating in tourism-related services, particularly SMEs are severely hit, and many become insolvent. The effects of the pandemic on economic activity are long-lasting and hurt potential growth.\n  Adverse scenario 2: This scenario is assumed to be more severe and less likely than the first one, but assumes an adverse external shock. It is characterized by a widening of the sovereign spread, capital outflows including from banks non-resident deposits and sharp currency depreciation, which lead to adverse feedback effects on economic activity.": {},
+        "Sensitivity analysis": {
+            "Sensitivity analyses to complement the scenario-based analysis. The risks comprise:\n  Credit risk from reclassification of loans between risk categories\n  FX-induced credit risk\n  Credit risk from large exposures (10 largest for each bank)\n  Interest rate risk in the banking book\n  Sovereign debt holdings": {}
+        },
+        "4.Risks and Buffers": {
+            "Risks assessed": {
+                "Credit loss from banks loan portfolios and sovereign exposures, including off- balance sheet credit exposures.\n  Interest rate risk in the banking book, compression of interest margins.": {}
+            }
+        },
+        "Buffers": {
+            "Existing loan loss provisions and capital buffers.\n  Internal capital generation from net income after taxes.\n  No new capital injections.": {}
+        },
+        "5. Regulatory Standards": {
+            "Regulatory Standards": {
+                "National regulatory framework.\n  Basel III approach.": {}
+            }
+        },
+        "6. Reporting Format for Results": {
+            "Output presentation": {
+                "System-wide capital shortfalls from macroprudential perspective.\n  Number of banks and percentage of banking system assets by CAR intervals.": {}
+            }
+        },
+        "Impact of shocks on NPLs.\n  Impact of shocks on key P&L components.": {},
+        "Banking Sector: Liquidity Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions included": {
+            "All fifteen banks.": {}
+        },
+        "About 95 percent of total financial system assets.": {},
+        "Data and Starting position": {
+            "Baseline date: December 31, 2020 (possibly updated at a later date).\n  Data Source: Daily supervisory returns on bank liquid assets and liabilities, and projected cash flows at various horizons. Liabilities classified by liquidity, currency, size, and residency of the counterparts.": {}
+        },
+        "Overall framework": {
+            "Cash-flow cum counterbalancing capacity-based liquidity stress test\n  Basel III-LCR ratio.\n  Separate results by local and foreign currency.": {}
+        },
+        "Scenario analysis": {
+            "Four scenarios combining two shocks to liabilities and two assumptions on asset haircuts. Shock calibration based on historic data.": {}
+        },
+        "4. Risks and Buffers": {
+            "Risks": {
+                "Cash-flow based LST. Adverse shock to deposits and other liquid liabilities combined with reduction of asset liquidity": {}
+            }
+        },
+        "Cash-flow based LST: Capacity of banks to generate liquidity from assets under stress (counterbalancing capacity) and central bank facilities\n  LCR regulatory buffers": {},
+        "Regulatory Standards": {
+            "National regulatory framework: The LCR and NFSR. Hurdle rates of 75 percent for LCR in local currency and 100 percent for LCR in FX.": {}
+        },
+        "Output presentation": {
+            "Distribution of banks and total assets by intervals of LCR after shock.": {}
+        },
+        "Corporate Stress Test": {
+            "": {
+                "": {}
+            }
+        },
+        "Entities included": {
+            "About 100 large corporations on a solo basis, representing about 49 corporations at the consolidated level. The sampled firms have total assets equivalent to about 25 percent of GDP on a solo basis, and 28 percent of GDP on a consolidated basis.\n  The sample targets the ten largest borrowers of each bank.": {}
+        },
+        "Data": {
+            "Publicly available financial data on corporations is limited due to the shallow capital market. The corporate stress test uses data from bank files, comprising the latest available balance sheet and income statement accounts of the sampled corporations on a solo and a consolidated basis.": {}
+        },
+        "Time Horizon": {
+            "Data are unbalanced, during 2018-20.": {}
+        },
+        "Stress test based on the Interest Coverage Ratio (ICR) and EBITD conditional on the distressed scenarios applied to the bank stress tests.\n  Individual firms are classified by their economic activities and subject to the adverse scenarios used in the bank stress tests. The shocks include an increase in interests on short-term debt and maturing long-term debt, and a drop in EBITD proportional to the evolution of value added in the sector where the firm operates.\n  Individual firms are mapped to their corporate groups and to their lender banks, and the results used to inform the bank stress tests of credit risk.": {},
+        "Scenarios": {
+            "The analysis applies the same baseline and distressed scenarios used in the bank stress tests. The corporate stress test applies the projections of sectoral value added and the shocks to sovereign spreads to come up with a set of firm-specific shocks consistent with the bank stress tests.": {}
+        },
+        "3. Risks and Buffers": {
+            "Risks": {
+                "Insolvency risk.": {}
+            }
+        },
+        "Buffers:": {
+            "EBITD and share of long-term debt in total debt.": {}
+        },
+        "4. Reporting Format for Results": {
+            "Output presentation": {
+                "Total assets and number of firms with ICR below 100 percent by economic sectors, and lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with ICR below 100 percent, by lender banks, under baseline and distressed scenarios.\n  Total bank debt owed by firms with negative EBITD or negative equity, by lender banks, under baseline and distressed scenarios.": {}
+            }
+        },
+        "Financial System: Interconnectedness Analysis": {
+            "": {
+                "": {}
+            }
+        },
+        "Institutions Included": {
+            "Interbank network: Largest all fifteen 15 banks.": {}
+        },
+        "Data source: Supervisory data on interbank exposures.\n  Interbank positions as of December 2020.": {},
+        "Interbank: Balance sheet-based interbank model by Espinosa-Vega and Sol (2010).\n  Common exposure: balance sheet approach.": {},
+        "Risks": {
+            "Credit and funding losses related to interbank exposures.\n  Default of large common borrowers in the banking system.": {}
+        },
+        "Interbank network: banks own capital and liquidity buffers.": {},
+        "Interbank network: a network chart, index of vulnerabilities.\n  Common exposure: system-wide capital shortfalls.\n  Evolution and direction of spillovers.": {}
+    }
 ]

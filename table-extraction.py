@@ -4,11 +4,18 @@ import pylightxl as xl
 import json
 import string
 
-def build_json(current_keys, row):
-    if row.is_empty():
-        return ""
+def build_json(rows):
+    data = {}
+    for row in clean_rows:
+        current_level = data
+        for cell in row:
+            if cell not in current_level:
+                current_level[cell] = {}
+                current_level = current_level[cell]
+    return data
 
-
+def is_header(row):
+    return row[0].strip() and all([not cell.strip() for cell in row[1:]])
 # set the delimiter of the CSV to be the value of your choosing
 # set the default worksheet to write the read in CSV data to
 db = xl.readxl(fn='/Users/wenshuaihou/code/keyword-extraction/GEO.xlsx')
@@ -25,15 +32,21 @@ for i, row in enumerate(ws.rows):
         clean_row = [ ''.join(filter(lambda c: c in string.printable, cell)).strip() for cell in clean_row]
         clean_rows.append(clean_row)
 
-data = {}
+datas = []
+section = []
+
 for row in clean_rows:
-    current_level = data
-    for cell in row:
-        if cell not in current_level:
-            current_level[cell] = {}
-        current_level = current_level[cell]
+    if not section:
+        section.append(row)
+    elif is_header(row):
+        datas.append(build_json(section))
+        section = []
+    else:
+        section.append(row)
+
+
 with open('./table.json', 'w', encoding='utf-8') as f:
-    json.dump(clean_rows, f, ensure_ascii=False, indent=4)
+    json.dump(datas, f, ensure_ascii=False, indent=4)
 
 # data_list = []
 
