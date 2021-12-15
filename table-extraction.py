@@ -18,7 +18,7 @@ def is_header(row):
     return row[0].strip() and all([not cell.strip() for cell in row[1:]])
 # set the delimiter of the CSV to be the value of your choosing
 # set the default worksheet to write the read in CSV data to
-db = xl.readxl(fn='/Users/wenshuaihou/code/keyword-extraction/GEO.xlsx')
+db = xl.readxl(fn='./GEO.xlsx')
 ws = db.ws("Table 1")
 
 clean_rows = []
